@@ -24,3 +24,9 @@
 .DS_Store
 *.pem
 npm-debug.log*
+
+# Python / generated briefing scratch output
+__pycache__/
+*.pyc
+outputs/
+.sharpe-pint-output/

@@ -1,0 +1,38 @@
+name: Generate Sharpe Pint
+
+on:
+  schedule:
+    - cron: "0 7 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate briefing
+        run: python scripts/generate_sharpe_pint.py --output-dir /tmp/sharpe-pint-output
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_SECTION_MODEL: gemini-3.5-flash
+          GEMINI_EDITOR_MODEL: gemini-3.5-flash
+
+      - name: Commit generated data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add public/sharpe-pint/data/*.json data/previous_ideas.json
+          git commit -m "Generate daily Sharpe Pint" || exit 0
+          git push
