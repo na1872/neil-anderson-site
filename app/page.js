@@ -13,6 +13,9 @@ export default function Home() {
         </svg>
         LinkedIn
       </a>
+      <a href="/sharpe-pint" className="sharpe-btn">
+        The Sharpe Pint
+      </a>
     </main>
   )
 }

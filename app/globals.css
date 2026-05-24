@@ -44,6 +44,24 @@ h1 {
   opacity: 0.85;
 }
 
+.sharpe-btn {
+  display: inline-flex;
+  align-items: center;
+  padding: 12px 24px;
+  border: 1px solid #3a3a3a;
+  border-radius: 8px;
+  color: #f0f0f0;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 1rem;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.sharpe-btn:hover {
+  border-color: #777;
+  background: #171717;
+}
+
 .sp-page {
   min-height: 100vh;
   background: #fbfaf6;
