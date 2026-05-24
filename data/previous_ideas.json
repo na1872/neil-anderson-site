@@ -1,0 +1,36 @@
+{
+  "financial_ideas": [
+    "Return on Invested Capital (ROIC)",
+    "Return on Incremental Invested Capital (ROIIC)",
+    "Reinvestment Moat vs Legacy Moat",
+    "Reinvestment Rate",
+    "Value Traps in Quality Investing",
+    "Stock-Based Compensation (SBC)",
+    "Free Cash Flow (FCF) distortion",
+    "Share buybacks and dilution",
+    "SBC-adjusted FCF",
+    "DCF adjustments for equity compensation"
+  ],
+  "quant_ai_ideas": [
+    "Conformal Prediction",
+    "Adaptive Conformal Inference",
+    "Conformal Predictive Portfolio Selection",
+    "Uncertainty Quantification in Finance",
+    "Neural Stochastic Differential Equations",
+    "Neural SDEs",
+    "Arbitrage-Free Market Models",
+    "Option Hedging"
+  ],
+  "people_psychology_ideas": [
+    "IKEA Effect",
+    "Cognitive biases in financial modeling",
+    "Psychological ownership in negotiation",
+    "Red-teaming",
+    "Incentives and decision-making",
+    "Pluralistic Ignorance",
+    "Abilene Paradox",
+    "Groupthink in investment committees",
+    "Pre-mortems",
+    "Managing agreement"
+  ]
+}
