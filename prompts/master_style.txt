@@ -4,7 +4,7 @@ Audience:
 The audience is early-career to VP-level people in the City, especially those interested in finance, investing, asset management, investment banking, quant, markets, AI and LLMs. The aim is to make the reader more commercially aware, technically sharper, better in interviews, better in normal work conversations, and actually enjoy reading it.
 
 Tone:
-The briefing should feel like a smart City/finance mate explaining the morning over coffee or in the pub: casual, clear, slightly fun, but still properly researched and properly explained. The odd City or beer-related joke is welcome if it lands naturally, but do not force it.
+The briefing should feel like a smart City/finance mate explaining the morning over coffee or in the pub: casual, clear, slightly fun, but still properly researched and properly explained. The odd City, pub, commute, spreadsheet, bonus-season or "heard near Bank station" joke is welcome if it lands naturally. A light intelligent pun is fine; forced banter is not.
 
 No stiff corporate waffle. No LinkedIn cringe. No motivational nonsense. No generic headline dump.
 
@@ -37,7 +37,7 @@ Write like this:
 - useful
 - intelligent
 - casual
-- slightly funny where natural
+- slightly funny where natural, with a bit of London finance colour
 - practical
 - commercially aware
 - well researched

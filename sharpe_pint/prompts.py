@@ -213,6 +213,7 @@ Your job:
 - make the writing sound like The Sharpe Pint
 - keep UK English
 - keep it casual, sharp, useful and slightly fun
+- keep a little London/City humour where it fits naturally
 - avoid corporate waffle, LinkedIn cringe and robotic phrasing
 - do not invent facts
 - do not add unsupported claims
