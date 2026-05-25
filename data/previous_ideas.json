@@ -9,7 +9,14 @@
     "Free Cash Flow (FCF) distortion",
     "Share buybacks and dilution",
     "SBC-adjusted FCF",
-    "DCF adjustments for equity compensation"
+    "DCF adjustments for equity compensation",
+    "Negative Working Capital",
+    "Operating Working Capital",
+    "Deferred Revenue",
+    "Customer-Funded Growth",
+    "The Float",
+    "Working Capital in DCF Models",
+    "Working Capital and ROIC"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -19,7 +26,12 @@
     "Neural Stochastic Differential Equations",
     "Neural SDEs",
     "Arbitrage-Free Market Models",
-    "Option Hedging"
+    "Option Hedging",
+    "Path Signatures",
+    "Rough Path Theory",
+    "Itô Signatures",
+    "Non-geometric Rough Paths",
+    "Universal Approximation Theorem"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -31,6 +43,10 @@
     "Abilene Paradox",
     "Groupthink in investment committees",
     "Pre-mortems",
-    "Managing agreement"
+    "Managing agreement",
+    "The Decoy Effect",
+    "Asymmetric Dominance Effect",
+    "Relative valuation in decision-making",
+    "Managing upwards with structured options"
   ]
 }
