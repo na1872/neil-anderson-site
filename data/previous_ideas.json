@@ -16,7 +16,11 @@
     "Customer-Funded Growth",
     "The Float",
     "Working Capital in DCF Models",
-    "Working Capital and ROIC"
+    "Working Capital and ROIC",
+    "R&D Capitalisation",
+    "Intangible Assets in ROIC",
+    "US GAAP vs IFRS R&D Accounting",
+    "Adjusted ROIC"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -31,7 +35,13 @@
     "Rough Path Theory",
     "Itô Signatures",
     "Non-geometric Rough Paths",
-    "Universal Approximation Theorem"
+    "Universal Approximation Theorem",
+    "Physics-Informed Neural Networks",
+    "PINNs",
+    "Black-Scholes PDE",
+    "Automatic Differentiation",
+    "Mesh-free PDE solvers",
+    "High-dimensional option pricing"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -47,6 +57,10 @@
     "The Decoy Effect",
     "Asymmetric Dominance Effect",
     "Relative valuation in decision-making",
-    "Managing upwards with structured options"
+    "Managing upwards with structured options",
+    "MUM effect",
+    "Watermelon reporting",
+    "Psychological safety in risk escalation",
+    "Shoot the messenger syndrome"
   ]
 }

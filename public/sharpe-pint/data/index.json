@@ -1,6 +1,14 @@
 {
-  "latest": "2026-05-25_11-35-26.json",
+  "latest": "2026-05-26_11-50-19.json",
   "issues": [
+    {
+      "id": "2026-05-26_11-50-19",
+      "file": "2026-05-26_11-50-19.json",
+      "title": "The Sharpe Pint: Ceasefires, Hawks, and the R&D Illusion",
+      "date": "2026-05-26",
+      "generated_at": "2026-05-26T10:50:19.949591+00:00",
+      "source_count": 17
+    },
     {
       "id": "2026-05-25_11-35-26",
       "file": "2026-05-25_11-35-26.json",
