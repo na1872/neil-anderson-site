@@ -2,10 +2,10 @@ name: Generate Sharpe Pint
 
 on:
   schedule:
-    # Morning London time. GitHub scheduled jobs can be delayed or dropped,
+    # Early London morning. GitHub scheduled jobs can be delayed or dropped,
     # so the second slot is a backup. The job skips if today's issue exists.
-    - cron: "17 7 * * *"
-    - cron: "47 8 * * *"
+    - cron: "17 5 * * *"
+    - cron: "47 6 * * *"
   workflow_dispatch:
 
 jobs:
