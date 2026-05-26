@@ -2,8 +2,10 @@ name: Generate Sharpe Pint
 
 on:
   schedule:
-    # 07:30 UTC daily: 08:30 in London during BST, 07:30 during GMT.
-    - cron: "30 7 * * *"
+    # Morning London time. GitHub scheduled jobs can be delayed or dropped,
+    # so the second slot is a backup. The job skips if today's issue exists.
+    - cron: "17 7 * * *"
+    - cron: "47 8 * * *"
   workflow_dispatch:
 
 jobs:
@@ -12,6 +14,9 @@ jobs:
 
     permissions:
       contents: write
+
+    env:
+      TZ: Europe/London
 
     steps:
       - uses: actions/checkout@v4
@@ -23,14 +28,28 @@ jobs:
       - name: Install Python dependencies
         run: pip install -r requirements.txt
 
+      - name: Check whether today's issue already exists
+        id: today
+        run: |
+          TODAY="$(date +%F)"
+          echo "date=$TODAY" >> "$GITHUB_OUTPUT"
+          if ls "public/sharpe-pint/data/${TODAY}_"*.json >/dev/null 2>&1; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "Issue already exists for $TODAY"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Generate briefing
-        run: python scripts/generate_sharpe_pint.py --output-dir /tmp/sharpe-pint-output
+        if: steps.today.outputs.skip != 'true'
+        run: python scripts/generate_sharpe_pint.py --date "${{ steps.today.outputs.date }}" --output-dir /tmp/sharpe-pint-output
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_SECTION_MODEL: gemini-3.5-flash
           GEMINI_EDITOR_MODEL: gemini-3.5-flash
 
       - name: Commit generated data
+        if: steps.today.outputs.skip != 'true'
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
