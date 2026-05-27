@@ -20,7 +20,13 @@
     "R&D Capitalisation",
     "Intangible Assets in ROIC",
     "US GAAP vs IFRS R&D Accounting",
-    "Adjusted ROIC"
+    "Adjusted ROIC",
+    "Maintenance Capex",
+    "Growth Capex",
+    "Owner Earnings",
+    "Bruce Greenwald Capex Method",
+    "Steady-State Free Cash Flow",
+    "Depreciation Trap"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -41,7 +47,12 @@
     "Black-Scholes PDE",
     "Automatic Differentiation",
     "Mesh-free PDE solvers",
-    "High-dimensional option pricing"
+    "High-dimensional option pricing",
+    "Decision-Focused Learning",
+    "Portfolio ML",
+    "Smart Predict-then-Optimize",
+    "Implementable Efficient Frontier",
+    "Transaction-cost-aware portfolio optimization"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -61,6 +72,11 @@
     "MUM effect",
     "Watermelon reporting",
     "Psychological safety in risk escalation",
-    "Shoot the messenger syndrome"
+    "Shoot the messenger syndrome",
+    "Parkinson's Law of Triviality",
+    "Bikeshedding",
+    "Meeting dynamics",
+    "Decision-making bias",
+    "Office politics"
   ]
 }
