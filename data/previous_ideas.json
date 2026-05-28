@@ -26,7 +26,12 @@
     "Owner Earnings",
     "Bruce Greenwald Capex Method",
     "Steady-State Free Cash Flow",
-    "Depreciation Trap"
+    "Depreciation Trap",
+    "Operating Leverage",
+    "Degree of Operating Leverage (DOL)",
+    "Fixed vs Variable Costs",
+    "Margin Expansion Mechanics",
+    "Operating Leverage vs Financial Leverage"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -52,7 +57,13 @@
     "Portfolio ML",
     "Smart Predict-then-Optimize",
     "Implementable Efficient Frontier",
-    "Transaction-cost-aware portfolio optimization"
+    "Transaction-cost-aware portfolio optimization",
+    "Wasserstein Distributionally Robust Optimization",
+    "WDRO",
+    "Wasserstein Distance",
+    "Distributionally Robust Mean-Variance Portfolio Selection",
+    "Weight Regularization in Portfolio Optimization",
+    "Robust Wasserstein Profile Inference"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -77,6 +88,10 @@
     "Bikeshedding",
     "Meeting dynamics",
     "Decision-making bias",
-    "Office politics"
+    "Office politics",
+    "Ben Franklin Effect",
+    "Cognitive dissonance in professional relationships",
+    "Managing upwards",
+    "Rapport building with senior stakeholders"
   ]
 }
