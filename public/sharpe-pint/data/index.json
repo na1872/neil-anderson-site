@@ -1,6 +1,14 @@
 {
-  "latest": "2026-05-28_12-06-25.json",
+  "latest": "2026-06-01_14-11-53.json",
   "issues": [
+    {
+      "id": "2026-06-01_14-11-53",
+      "file": "2026-06-01_14-11-53.json",
+      "title": "The Sharpe Pint: Reverse Factoring, Quantum Foundries, and the Spotlight Effect",
+      "date": "2026-06-01",
+      "generated_at": "2026-06-01T13:11:53.338634+00:00",
+      "source_count": 18
+    },
     {
       "id": "2026-05-28_12-06-25",
       "file": "2026-05-28_12-06-25.json",

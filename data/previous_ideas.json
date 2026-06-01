@@ -31,7 +31,13 @@
     "Degree of Operating Leverage (DOL)",
     "Fixed vs Variable Costs",
     "Margin Expansion Mechanics",
-    "Operating Leverage vs Financial Leverage"
+    "Operating Leverage vs Financial Leverage",
+    "Reverse Factoring",
+    "Supply Chain Finance",
+    "Days Payable Outstanding (DPO)",
+    "Working Capital Window-Dressing",
+    "IAS 7 / IFRS 7 Supplier Finance Amendments",
+    "FASB ASU 2022-04"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -63,7 +69,12 @@
     "Wasserstein Distance",
     "Distributionally Robust Mean-Variance Portfolio Selection",
     "Weight Regularization in Portfolio Optimization",
-    "Robust Wasserstein Profile Inference"
+    "Robust Wasserstein Profile Inference",
+    "Decision by Supervised Learning",
+    "DSL",
+    "Deep Ensembles in Portfolio Optimization",
+    "Cross-Entropy Loss for Portfolio Weights",
+    "Direct Weight Prediction"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -92,6 +103,11 @@
     "Ben Franklin Effect",
     "Cognitive dissonance in professional relationships",
     "Managing upwards",
-    "Rapport building with senior stakeholders"
+    "Rapport building with senior stakeholders",
+    "Spotlight Effect",
+    "Egocentric bias",
+    "Overcoming workplace anxiety",
+    "Managing minor mistakes",
+    "Calculated risk-taking in meetings"
   ]
 }
