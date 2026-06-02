@@ -1,6 +1,14 @@
 {
-  "latest": "2026-06-01_14-11-53.json",
+  "latest": "2026-06-02_12-50-04.json",
   "issues": [
+    {
+      "id": "2026-06-02_12-50-04",
+      "file": "2026-06-02_12-50-04.json",
+      "title": "The Sharpe Pint: SpaceX's Trillion-Dollar Catch, the Fed's New Regime, and the Great Treasury Divorce",
+      "date": "2026-06-02",
+      "generated_at": "2026-06-02T11:50:04.193960+00:00",
+      "source_count": 17
+    },
     {
       "id": "2026-06-01_14-11-53",
       "file": "2026-06-01_14-11-53.json",

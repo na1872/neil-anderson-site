@@ -37,7 +37,13 @@
     "Days Payable Outstanding (DPO)",
     "Working Capital Window-Dressing",
     "IAS 7 / IFRS 7 Supplier Finance Amendments",
-    "FASB ASU 2022-04"
+    "FASB ASU 2022-04",
+    "IFRS 16 Lease Capitalisation",
+    "EV/EBITDA Distortion",
+    "Lease Liabilities in Enterprise Value",
+    "EBITDAR",
+    "Implied Lease Multiple",
+    "Operating Leases vs Owned Assets"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -74,7 +80,14 @@
     "DSL",
     "Deep Ensembles in Portfolio Optimization",
     "Cross-Entropy Loss for Portfolio Weights",
-    "Direct Weight Prediction"
+    "Direct Weight Prediction",
+    "Mamba",
+    "State Space Models",
+    "Selective State Space Models",
+    "SSMs",
+    "CryptoMamba",
+    "High-Frequency Trading",
+    "Volatility Forecasting"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -108,6 +121,11 @@
     "Egocentric bias",
     "Overcoming workplace anxiety",
     "Managing minor mistakes",
-    "Calculated risk-taking in meetings"
+    "Calculated risk-taking in meetings",
+    "Curse of Knowledge",
+    "Epistemic Egocentrism",
+    "Communication in finance",
+    "Pitch deck design",
+    "Tapping experiment"
   ]
 }
