@@ -43,7 +43,12 @@
     "Lease Liabilities in Enterprise Value",
     "EBITDAR",
     "Implied Lease Multiple",
-    "Operating Leases vs Owned Assets"
+    "Operating Leases vs Owned Assets",
+    "Treasury Stock Method (TSM)",
+    "Diluted Shares Outstanding",
+    "In-the-money options",
+    "Option proceeds buyback",
+    "Enterprise Value dilution"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -87,7 +92,13 @@
     "SSMs",
     "CryptoMamba",
     "High-Frequency Trading",
-    "Volatility Forecasting"
+    "Volatility Forecasting",
+    "Double Machine Learning",
+    "Debiased Machine Learning",
+    "Causal Inference in Finance",
+    "Post-Earnings Announcement Drift",
+    "Factor Zoo",
+    "Cross-fitting"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -126,6 +137,10 @@
     "Epistemic Egocentrism",
     "Communication in finance",
     "Pitch deck design",
-    "Tapping experiment"
+    "Tapping experiment",
+    "Pratfall Effect",
+    "Vulnerability in leadership",
+    "Building trust in finance",
+    "Interview techniques"
   ]
 }

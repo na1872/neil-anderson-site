@@ -1,6 +1,14 @@
 {
-  "latest": "2026-06-02_12-50-04.json",
+  "latest": "2026-06-03_23-46-40.json",
   "issues": [
+    {
+      "id": "2026-06-03_23-46-40",
+      "file": "2026-06-03_23-46-40.json",
+      "title": "The Sharpe Pint: Trillion-Dollar Races, Treasury Unbundling, and the Art of the Spill",
+      "date": "2026-06-03",
+      "generated_at": "2026-06-03T22:46:40.899880+00:00",
+      "source_count": 17
+    },
     {
       "id": "2026-06-02_12-50-04",
       "file": "2026-06-02_12-50-04.json",
