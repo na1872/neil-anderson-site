@@ -48,7 +48,12 @@
     "Diluted Shares Outstanding",
     "In-the-money options",
     "Option proceeds buyback",
-    "Enterprise Value dilution"
+    "Enterprise Value dilution",
+    "Sloan Ratio",
+    "Accrual Anomaly",
+    "Earnings Quality",
+    "Accrual Accounting vs Cash Flow",
+    "Richard Sloan 1996"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -98,7 +103,14 @@
     "Causal Inference in Finance",
     "Post-Earnings Announcement Drift",
     "Factor Zoo",
-    "Cross-fitting"
+    "Cross-fitting",
+    "Deep Hedging",
+    "Differentiable Path Simulation",
+    "Entropic Risk Measure",
+    "Expected Shortfall in Deep Hedging",
+    "No-Transaction Band Networks",
+    "Uncertainty Quantification in Deep Hedging",
+    "Simulator Arbitrage"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -141,6 +153,11 @@
     "Pratfall Effect",
     "Vulnerability in leadership",
     "Building trust in finance",
-    "Interview techniques"
+    "Interview techniques",
+    "Illusion of Validity",
+    "Coherence vs Accuracy",
+    "Overconfidence in forecasting",
+    "Daniel Kahneman",
+    "Redundant inputs in modeling"
   ]
 }

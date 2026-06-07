@@ -1,6 +1,14 @@
 {
-  "latest": "2026-06-03_23-46-40.json",
+  "latest": "2026-06-07_11-12-30.json",
   "issues": [
+    {
+      "id": "2026-06-07_11-12-30",
+      "file": "2026-06-07_11-12-30.json",
+      "title": "The Sharpe Pint: Silicon Siphons, Sloan Ratios, and the Illusion of Validity",
+      "date": "2026-06-07",
+      "generated_at": "2026-06-07T10:12:30.724861+00:00",
+      "source_count": 18
+    },
     {
       "id": "2026-06-03_23-46-40",
       "file": "2026-06-03_23-46-40.json",
