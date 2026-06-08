@@ -1,6 +1,14 @@
 {
-  "latest": "2026-06-07_11-12-30.json",
+  "latest": "2026-06-08_13-14-43.json",
   "issues": [
+    {
+      "id": "2026-06-08_13-14-43",
+      "file": "2026-06-08_13-14-43.json",
+      "title": "The Sharpe Pint: Wall Street's Worst Day, M&A Madness, and the 71% Predictable PM",
+      "date": "2026-06-08",
+      "generated_at": "2026-06-08T12:14:43.771512+00:00",
+      "source_count": 19
+    },
     {
       "id": "2026-06-07_11-12-30",
       "file": "2026-06-07_11-12-30.json",
