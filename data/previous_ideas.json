@@ -59,7 +59,13 @@
     "Plowback Ratio",
     "DuPont Growth Levers",
     "Organic Growth Speed Limit",
-    "Overtrading"
+    "Overtrading",
+    "Enterprise Value (EV) adjustments",
+    "Non-controlling Interest (NCI)",
+    "Minority Interest",
+    "Associates and Joint Ventures",
+    "Valuation Multiples Consistency",
+    "Consolidation Accounting"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -122,7 +128,12 @@
     "Image Inpainting in Finance",
     "LOB-Bench",
     "Error Accumulation in Autoregressive Models",
-    "Spatio-temporal Inductive Biases"
+    "Spatio-temporal Inductive Biases",
+    "Contrastive Learning of Asset Embeddings",
+    "Statistical Co-occurrence",
+    "Hypothesis Test of Proportions",
+    "Self-Supervised Representation Learning",
+    "Hybrid Sigmoid-Softmax Loss"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -176,6 +187,10 @@
     "Experience design in client management",
     "Interview performance optimization",
     "Performance review strategy",
-    "Service recovery paradox"
+    "Service recovery paradox",
+    "Egocentric Discounting",
+    "Advice taking in decision-making",
+    "Asymmetric information access in professional advice",
+    "Judge-Advisor System (JAS)"
   ]
 }
