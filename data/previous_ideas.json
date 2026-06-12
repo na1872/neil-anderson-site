@@ -65,7 +65,13 @@
     "Minority Interest",
     "Associates and Joint Ventures",
     "Valuation Multiples Consistency",
-    "Consolidation Accounting"
+    "Consolidation Accounting",
+    "EV-to-Equity Bridge",
+    "Debt-like items",
+    "Cash-like items",
+    "Restricted cash",
+    "Cash-free, debt-free (CFDF)",
+    "M&A closing adjustments"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -133,7 +139,15 @@
     "Statistical Co-occurrence",
     "Hypothesis Test of Proportions",
     "Self-Supervised Representation Learning",
-    "Hybrid Sigmoid-Softmax Loss"
+    "Hybrid Sigmoid-Softmax Loss",
+    "Differentiable Sorting",
+    "Differentiable Ranking",
+    "SoftSort",
+    "Torchsort",
+    "Learning to Rank",
+    "Spearman Correlation Loss",
+    "Isotonic Regression",
+    "Permutahedron"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -191,6 +205,11 @@
     "Egocentric Discounting",
     "Advice taking in decision-making",
     "Asymmetric information access in professional advice",
-    "Judge-Advisor System (JAS)"
+    "Judge-Advisor System (JAS)",
+    "Ringelmann Effect",
+    "Social Loafing",
+    "Diffusion of responsibility",
+    "Team size optimization",
+    "Two-Pizza Rule"
   ]
 }

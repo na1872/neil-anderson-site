@@ -1,6 +1,14 @@
 {
-  "latest": "2026-06-10_12-09-20.json",
+  "latest": "2026-06-12_12-12-49.json",
   "issues": [
+    {
+      "id": "2026-06-12_12-12-49",
+      "file": "2026-06-12_12-12-49.json",
+      "title": "The Sharpe Pint: Rockets, Rate Hikes, and the Illusion of Net Debt",
+      "date": "2026-06-12",
+      "generated_at": "2026-06-12T11:12:49.855532+00:00",
+      "source_count": 18
+    },
     {
       "id": "2026-06-10_12-09-20",
       "file": "2026-06-10_12-09-20.json",
