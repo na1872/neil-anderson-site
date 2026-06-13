@@ -71,7 +71,13 @@
     "Cash-like items",
     "Restricted cash",
     "Cash-free, debt-free (CFDF)",
-    "M&A closing adjustments"
+    "M&A closing adjustments",
+    "Multiple Arbitrage",
+    "Roll-up Strategy",
+    "Buy-and-Build Playbook",
+    "Platform vs Add-on Acquisitions",
+    "Blended Entry Multiple",
+    "Integration Risk in M&A"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -147,7 +153,12 @@
     "Learning to Rank",
     "Spearman Correlation Loss",
     "Isotonic Regression",
-    "Permutahedron"
+    "Permutahedron",
+    "Deep Calibration",
+    "Rough Volatility",
+    "rBergomi",
+    "Surrogate Models",
+    "Inverse Problems in Finance"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -210,6 +221,10 @@
     "Social Loafing",
     "Diffusion of responsibility",
     "Team size optimization",
-    "Two-Pizza Rule"
+    "Two-Pizza Rule",
+    "Illusion of Transparency",
+    "Stage fright and public speaking anxiety",
+    "Negotiation poker face",
+    "Egocentric anchoring in communication"
   ]
 }
