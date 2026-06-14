@@ -77,7 +77,13 @@
     "Buy-and-Build Playbook",
     "Platform vs Add-on Acquisitions",
     "Blended Entry Multiple",
-    "Integration Risk in M&A"
+    "Integration Risk in M&A",
+    "Competitive Fade Rate",
+    "ROIC Fade",
+    "Competitive Advantage Period (CAP)",
+    "CFROI Fade",
+    "Terminal Value Cliff",
+    "Transition Period in DCF"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -158,7 +164,11 @@
     "Rough Volatility",
     "rBergomi",
     "Surrogate Models",
-    "Inverse Problems in Finance"
+    "Inverse Problems in Finance",
+    "Neural Hawkes Process",
+    "Continuous-Time LSTM",
+    "Point Processes in Finance",
+    "Market Microstructure Modelling"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -225,6 +235,12 @@
     "Illusion of Transparency",
     "Stage fright and public speaking anxiety",
     "Negotiation poker face",
-    "Egocentric anchoring in communication"
+    "Egocentric anchoring in communication",
+    "Yes-Damn Effect",
+    "Temporal discounting of time",
+    "Future self bias",
+    "Time management in finance",
+    "Overcommitment",
+    "The 'This Thursday' Test"
   ]
 }

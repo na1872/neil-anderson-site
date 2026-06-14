@@ -1,6 +1,14 @@
 {
-  "latest": "2026-06-13_11-12-26.json",
+  "latest": "2026-06-14_11-37-31.json",
   "issues": [
+    {
+      "id": "2026-06-14_11-37-31",
+      "file": "2026-06-14_11-37-31.json",
+      "title": "The Sharpe Pint: SpaceX's Trillion-Dollar Launch, the 2.7x AI Capex Bet, and the 'Yes-Damn' Trap",
+      "date": "2026-06-14",
+      "generated_at": "2026-06-14T10:37:31.947552+00:00",
+      "source_count": 18
+    },
     {
       "id": "2026-06-13_11-12-26",
       "file": "2026-06-13_11-12-26.json",
