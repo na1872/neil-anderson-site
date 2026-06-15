@@ -83,7 +83,12 @@
     "Competitive Advantage Period (CAP)",
     "CFROI Fade",
     "Terminal Value Cliff",
-    "Transition Period in DCF"
+    "Transition Period in DCF",
+    "EBITDA Add-backs",
+    "Pro-Forma EBITDA",
+    "Quality of Earnings (QofE)",
+    "Leverage Covenants",
+    "S&P Global EBITDA Study 2026"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -168,7 +173,13 @@
     "Neural Hawkes Process",
     "Continuous-Time LSTM",
     "Point Processes in Finance",
-    "Market Microstructure Modelling"
+    "Market Microstructure Modelling",
+    "Deep BSDE Solver",
+    "Backward Stochastic Differential Equations",
+    "High-Dimensional Option Pricing",
+    "Non-linear Black-Scholes",
+    "XVA Pricing",
+    "Forward-Backward SDEs"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -241,6 +252,12 @@
     "Future self bias",
     "Time management in finance",
     "Overcommitment",
-    "The 'This Thursday' Test"
+    "The 'This Thursday' Test",
+    "Naïve Realism",
+    "Objectivity Illusion",
+    "Conflict resolution in finance",
+    "Front Office vs Risk dynamics",
+    "Julia Minson's disagreement strategies",
+    "Lee Ross's social psychology research"
   ]
 }
