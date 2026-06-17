@@ -88,7 +88,13 @@
     "Pro-Forma EBITDA",
     "Quality of Earnings (QofE)",
     "Leverage Covenants",
-    "S&P Global EBITDA Study 2026"
+    "S&P Global EBITDA Study 2026",
+    "Payment-in-Kind (PIK) Interest",
+    "Good PIK vs Bad PIK",
+    "Shadow Default Rate",
+    "Phantom Income in BDCs",
+    "PIK 3-Statement Walkthrough",
+    "Private Credit Liquidity Strain"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -179,7 +185,14 @@
     "High-Dimensional Option Pricing",
     "Non-linear Black-Scholes",
     "XVA Pricing",
-    "Forward-Backward SDEs"
+    "Forward-Backward SDEs",
+    "Direct Sharpe Ratio Optimization",
+    "Deep Momentum Networks",
+    "DMNs",
+    "Turnover Regularization",
+    "Sharpe Loss",
+    "Time Series Momentum",
+    "TSMOM"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -258,6 +271,14 @@
     "Conflict resolution in finance",
     "Front Office vs Risk dynamics",
     "Julia Minson's disagreement strategies",
-    "Lee Ross's social psychology research"
+    "Lee Ross's social psychology research",
+    "Resulting",
+    "Outcome Bias",
+    "Decision-making process",
+    "Variance vs Skill",
+    "Performance evaluation",
+    "Annie Duke",
+    "Jonathan Baron",
+    "John Hershey"
   ]
 }
