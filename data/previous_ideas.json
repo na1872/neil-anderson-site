@@ -94,7 +94,14 @@
     "Shadow Default Rate",
     "Phantom Income in BDCs",
     "PIK 3-Statement Walkthrough",
-    "Private Credit Liquidity Strain"
+    "Private Credit Liquidity Strain",
+    "LBO Return Attribution",
+    "LBO Value Creation Bridge",
+    "EBITDA Growth Impact",
+    "Multiple Expansion Impact",
+    "Net Debt Paydown",
+    "Interaction Effect in LBOs",
+    "LBO Value Creation Levers"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -192,7 +199,12 @@
     "Turnover Regularization",
     "Sharpe Loss",
     "Time Series Momentum",
-    "TSMOM"
+    "TSMOM",
+    "Relational Probing",
+    "LM-to-Graph Adaptation",
+    "Relation Head",
+    "Joint Training of SLMs and GNNs",
+    "Dynamic Stock Relationship Graphs"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -279,6 +291,11 @@
     "Performance evaluation",
     "Annie Duke",
     "Jonathan Baron",
-    "John Hershey"
+    "John Hershey",
+    "Actor-Observer Bias",
+    "Fundamental Attribution Error in performance",
+    "Self-serving bias in finance",
+    "Decision journaling",
+    "Performance attribution psychology"
   ]
 }
