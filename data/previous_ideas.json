@@ -101,7 +101,13 @@
     "Multiple Expansion Impact",
     "Net Debt Paydown",
     "Interaction Effect in LBOs",
-    "LBO Value Creation Levers"
+    "LBO Value Creation Levers",
+    "Adjusted Present Value (APV)",
+    "WACC vs APV",
+    "Interest Tax Shield",
+    "Unlevered Cost of Capital",
+    "Capital Structure Flexibility",
+    "Valuing Leveraged Buyouts"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -204,7 +210,14 @@
     "LM-to-Graph Adaptation",
     "Relation Head",
     "Joint Training of SLMs and GNNs",
-    "Dynamic Stock Relationship Graphs"
+    "Dynamic Stock Relationship Graphs",
+    "Conditional Autoencoder",
+    "Autoencoder Asset Pricing Models",
+    "Latent Factors",
+    "Non-linear Betas",
+    "Factor Zoo Exorcism",
+    "Beta Network",
+    "Factor Network"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -296,6 +309,11 @@
     "Fundamental Attribution Error in performance",
     "Self-serving bias in finance",
     "Decision journaling",
-    "Performance attribution psychology"
+    "Performance attribution psychology",
+    "Presenter's Paradox",
+    "Dilution Effect",
+    "Averaging vs additive bias",
+    "Pitching and presentation psychology",
+    "Information integration"
   ]
 }

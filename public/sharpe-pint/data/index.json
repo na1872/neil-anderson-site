@@ -1,6 +1,14 @@
 {
-  "latest": "2026-06-18_12-35-39.json",
+  "latest": "2026-06-19_12-48-32.json",
   "issues": [
+    {
+      "id": "2026-06-19_12-48-32",
+      "file": "2026-06-19_12-48-32.json",
+      "title": "The Sharpe Pint: SpaceX's Hangover, Warsh's Warning, and the Presenter's Paradox",
+      "date": "2026-06-19",
+      "generated_at": "2026-06-19T11:48:32.656354+00:00",
+      "source_count": 16
+    },
     {
       "id": "2026-06-18_12-35-39",
       "file": "2026-06-18_12-35-39.json",
