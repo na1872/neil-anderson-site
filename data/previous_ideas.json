@@ -107,7 +107,12 @@
     "Interest Tax Shield",
     "Unlevered Cost of Capital",
     "Capital Structure Flexibility",
-    "Valuing Leveraged Buyouts"
+    "Valuing Leveraged Buyouts",
+    "Goodwill in ROIC",
+    "Organic ROIC vs Acquisition ROIC",
+    "Invested Capital adjustments",
+    "Michael Mauboussin ROIC framework",
+    "Acquired Intangibles in Return Metrics"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -217,7 +222,16 @@
     "Non-linear Betas",
     "Factor Zoo Exorcism",
     "Beta Network",
-    "Factor Network"
+    "Factor Network",
+    "Double Deep Q-learning",
+    "Double Deep Q-Networks",
+    "DDQN",
+    "Almgren-Chriss framework",
+    "Optimal Execution",
+    "Time-Varying Liquidity",
+    "Market Impact",
+    "Implementation Shortfall",
+    "Sim-to-real gap"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -314,6 +328,10 @@
     "Dilution Effect",
     "Averaging vs additive bias",
     "Pitching and presentation psychology",
-    "Information integration"
+    "Information integration",
+    "Toothbrush Theory",
+    "Not Invented Here Syndrome",
+    "Build vs Buy psychology",
+    "Co-creation in pitching"
   ]
 }
