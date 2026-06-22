@@ -112,7 +112,13 @@
     "Organic ROIC vs Acquisition ROIC",
     "Invested Capital adjustments",
     "Michael Mauboussin ROIC framework",
-    "Acquired Intangibles in Return Metrics"
+    "Acquired Intangibles in Return Metrics",
+    "Sum-of-the-Parts (SOTP) Valuation",
+    "Conglomerate Discount",
+    "Holding Company Discount",
+    "Value Unlock Catalyst",
+    "Corporate Drag",
+    "Spin-offs and Carve-outs"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -231,7 +237,15 @@
     "Time-Varying Liquidity",
     "Market Impact",
     "Implementation Shortfall",
-    "Sim-to-real gap"
+    "Sim-to-real gap",
+    "PatchTST",
+    "Patch Time Series Transformer",
+    "Channel-Independence",
+    "Oxford-Man Benchmark",
+    "VSN+LSTM",
+    "xLSTM",
+    "Downside-adjusted performance",
+    "Point-wise attention noise"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -332,6 +346,11 @@
     "Toothbrush Theory",
     "Not Invented Here Syndrome",
     "Build vs Buy psychology",
-    "Co-creation in pitching"
+    "Co-creation in pitching",
+    "Illusion of Control",
+    "Ellen Langer 1975 research",
+    "Process vs Outcome in finance",
+    "Placebo tasks and anxiety management",
+    "Over-modeling and over-trading biases"
   ]
 }
