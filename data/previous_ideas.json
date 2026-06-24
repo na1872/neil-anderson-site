@@ -118,7 +118,13 @@
     "Holding Company Discount",
     "Value Unlock Catalyst",
     "Corporate Drag",
-    "Spin-offs and Carve-outs"
+    "Spin-offs and Carve-outs",
+    "Gross Profitability Premium",
+    "Robert Novy-Marx 2013",
+    "Gross Profit-to-Assets",
+    "Intangible asset expensing distortion",
+    "Value-Profitability complementarity",
+    "Quality factor in systematic investing"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -245,7 +251,17 @@
     "VSN+LSTM",
     "xLSTM",
     "Downside-adjusted performance",
-    "Point-wise attention noise"
+    "Point-wise attention noise",
+    "DeePM",
+    "Regime-Robust Deep Learning",
+    "Ragged Filtration Problem",
+    "Directed Delay",
+    "Causal Sieve",
+    "Macroeconomic Graph Prior",
+    "Smooth Worst-Window Penalty",
+    "Entropic Value-at-Risk",
+    "EVaR Proxy",
+    "SoftMin Sharpe Loss"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -351,6 +367,11 @@
     "Ellen Langer 1975 research",
     "Process vs Outcome in finance",
     "Placebo tasks and anxiety management",
-    "Over-modeling and over-trading biases"
+    "Over-modeling and over-trading biases",
+    "Streetlight Effect",
+    "Drunkard's Search",
+    "Observational bias",
+    "Vanity metrics in business",
+    "Precision vs Accuracy in financial modelling"
   ]
 }

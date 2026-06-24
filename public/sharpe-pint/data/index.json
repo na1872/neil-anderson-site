@@ -1,6 +1,14 @@
 {
-  "latest": "2026-06-22_14-11-26.json",
+  "latest": "2026-06-24_11-32-27.json",
   "issues": [
+    {
+      "id": "2026-06-24_11-32-27",
+      "file": "2026-06-24_11-32-27.json",
+      "title": "The Sharpe Pint: Gated Alts, Gilt Tremors, and the Five Sins of Financial AI",
+      "date": "2026-06-24",
+      "generated_at": "2026-06-24T10:32:27.790071+00:00",
+      "source_count": 18
+    },
     {
       "id": "2026-06-22_14-11-26",
       "file": "2026-06-22_14-11-26.json",
