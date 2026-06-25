@@ -124,7 +124,14 @@
     "Gross Profit-to-Assets",
     "Intangible asset expensing distortion",
     "Value-Profitability complementarity",
-    "Quality factor in systematic investing"
+    "Quality factor in systematic investing",
+    "LTV/CAC Ratio",
+    "Gross Margin-Adjusted LTV",
+    "Customer Acquisition Cost (CAC)",
+    "Unit Economics",
+    "SaaS Metrics",
+    "Fully Loaded CAC",
+    "Customer Churn"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -261,7 +268,14 @@
     "Smooth Worst-Window Penalty",
     "Entropic Value-at-Risk",
     "EVaR Proxy",
-    "SoftMin Sharpe Loss"
+    "SoftMin Sharpe Loss",
+    "Tabular Foundation Models",
+    "TabPFN",
+    "TabPFN-3",
+    "In-Context Learning for Tabular Data",
+    "Prior-Data Fitted Networks",
+    "Bayesian Inference in Transformers",
+    "Test-Time Compute Scaling for Tabular Data"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -372,6 +386,12 @@
     "Drunkard's Search",
     "Observational bias",
     "Vanity metrics in business",
-    "Precision vs Accuracy in financial modelling"
+    "Precision vs Accuracy in financial modelling",
+    "Semmelweis Reflex",
+    "Belief perseverance",
+    "Ego defense in finance",
+    "Resistance to innovation",
+    "Cognitive bias in tool adoption",
+    "Status threat in professional environments"
   ]
 }
