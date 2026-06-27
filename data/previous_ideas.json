@@ -131,7 +131,12 @@
     "Unit Economics",
     "SaaS Metrics",
     "Fully Loaded CAC",
-    "Customer Churn"
+    "Customer Churn",
+    "After-Tax Pension Deficit",
+    "Pension Deficit in Enterprise Value",
+    "Defined Benefit Pension Liabilities",
+    "Pension Tax Shield",
+    "Debt-Like Items in EV"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -275,7 +280,12 @@
     "In-Context Learning for Tabular Data",
     "Prior-Data Fitted Networks",
     "Bayesian Inference in Transformers",
-    "Test-Time Compute Scaling for Tabular Data"
+    "Test-Time Compute Scaling for Tabular Data",
+    "Neural Slack Variables",
+    "Shape Constraints",
+    "Arbitrage-Free Volatility Surfaces",
+    "Constraint Drift",
+    "Auxiliary Networks"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -392,6 +402,10 @@
     "Ego defense in finance",
     "Resistance to innovation",
     "Cognitive bias in tool adoption",
-    "Status threat in professional environments"
+    "Status threat in professional environments",
+    "Overjustification Effect",
+    "Motivational crowding out",
+    "Intrinsic vs Extrinsic motivation",
+    "KPI design and employee motivation"
   ]
 }

@@ -1,6 +1,14 @@
 {
-  "latest": "2026-06-25_11-24-58.json",
+  "latest": "2026-06-27_10-37-19.json",
   "issues": [
+    {
+      "id": "2026-06-27_10-37-19",
+      "file": "2026-06-27_10-37-19.json",
+      "title": "The Sharpe Pint: Trillion-Dollar Delays, KOSPI Chip-Wrecks, and the Pension Tax Shield",
+      "date": "2026-06-27",
+      "generated_at": "2026-06-27T09:37:19.926027+00:00",
+      "source_count": 17
+    },
     {
       "id": "2026-06-25_11-24-58",
       "file": "2026-06-25_11-24-58.json",
