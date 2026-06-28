@@ -136,7 +136,12 @@
     "Pension Deficit in Enterprise Value",
     "Defined Benefit Pension Liabilities",
     "Pension Tax Shield",
-    "Debt-Like Items in EV"
+    "Debt-Like Items in EV",
+    "Deferred Tax Liabilities (DTLs)",
+    "EV-to-Equity Bridge adjustments",
+    "Debt-like items in M&A",
+    "Purchase Price Allocation (PPA) DTLs",
+    "Accelerated depreciation timing differences"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -285,7 +290,15 @@
     "Shape Constraints",
     "Arbitrage-Free Volatility Surfaces",
     "Constraint Drift",
-    "Auxiliary Networks"
+    "Auxiliary Networks",
+    "Distributional Reinforcement Learning",
+    "Distributional RL",
+    "QR-DQN",
+    "Quantile Regression Deep Q-Network",
+    "Conditional Value at Risk in RL",
+    "CVaR",
+    "Autocallable Hedging",
+    "Time Inconsistency in RL"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -406,6 +419,11 @@
     "Overjustification Effect",
     "Motivational crowding out",
     "Intrinsic vs Extrinsic motivation",
-    "KPI design and employee motivation"
+    "KPI design and employee motivation",
+    "McNamara Fallacy",
+    "Quantitative Fallacy",
+    "Daniel Yankelovich's four steps",
+    "Over-reliance on quantitative metrics in M&A",
+    "AI productivity measurement biases"
   ]
 }

@@ -1,6 +1,14 @@
 {
-  "latest": "2026-06-27_10-37-19.json",
+  "latest": "2026-06-28_11-11-33.json",
   "issues": [
+    {
+      "id": "2026-06-28_11-11-33",
+      "file": "2026-06-28_11-11-33.json",
+      "title": "The Sharpe Pint: The Memory Tax, Trillion-Dollar Chicken, and the McNamara Trap",
+      "date": "2026-06-28",
+      "generated_at": "2026-06-28T10:11:33.375828+00:00",
+      "source_count": 20
+    },
     {
       "id": "2026-06-27_10-37-19",
       "file": "2026-06-27_10-37-19.json",
