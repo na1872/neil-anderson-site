@@ -141,7 +141,12 @@
     "EV-to-Equity Bridge adjustments",
     "Debt-like items in M&A",
     "Purchase Price Allocation (PPA) DTLs",
-    "Accelerated depreciation timing differences"
+    "Accelerated depreciation timing differences",
+    "Dividend Recapitalisation",
+    "DPI (Distributed to Paid-In Capital)",
+    "IRR vs MoIC in Dividend Recaps",
+    "3-Statement Walkthrough of Dividend Recap",
+    "Credit Risk of Dividend Recaps"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -298,7 +303,16 @@
     "Conditional Value at Risk in RL",
     "CVaR",
     "Autocallable Hedging",
-    "Time Inconsistency in RL"
+    "Time Inconsistency in RL",
+    "Derivative-Informed Operator Learning",
+    "DIOL",
+    "Derivative-Informed Neural Operators",
+    "DINO",
+    "Sobolev Training",
+    "H1 Sobolev Space",
+    "On-the-fly Derivative Generation",
+    "Double Backpropagation",
+    "Adjoint Algorithmic Differentiation in Operator Learning"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -424,6 +438,11 @@
     "Quantitative Fallacy",
     "Daniel Yankelovich's four steps",
     "Over-reliance on quantitative metrics in M&A",
-    "AI productivity measurement biases"
+    "AI productivity measurement biases",
+    "Ostrich Effect",
+    "Information avoidance in finance",
+    "Investor login behaviour",
+    "Risk management psychology",
+    "Client relationship management during drawdowns"
   ]
 }
