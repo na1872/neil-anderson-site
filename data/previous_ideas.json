@@ -146,7 +146,13 @@
     "DPI (Distributed to Paid-In Capital)",
     "IRR vs MoIC in Dividend Recaps",
     "3-Statement Walkthrough of Dividend Recap",
-    "Credit Risk of Dividend Recaps"
+    "Credit Risk of Dividend Recaps",
+    "Contingent Consideration",
+    "Earn-outs in M&A",
+    "IFRS 3 / ASC 805 Contingent Consideration",
+    "Fair Value Adjustments on Liabilities",
+    "Quality of Earnings (QofE) in Roll-ups",
+    "3-Statement Walkthrough of Earn-out Write-downs"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -312,7 +318,14 @@
     "H1 Sobolev Space",
     "On-the-fly Derivative Generation",
     "Double Backpropagation",
-    "Adjoint Algorithmic Differentiation in Operator Learning"
+    "Adjoint Algorithmic Differentiation in Operator Learning",
+    "Generative Flow Networks",
+    "GFlowNets",
+    "AlphaSAGE",
+    "Tail-Risk Scenario Generation",
+    "Trajectory Balance Loss",
+    "Mode Collapse in Reinforcement Learning",
+    "Formulaic Alpha Mining"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -443,6 +456,13 @@
     "Information avoidance in finance",
     "Investor login behaviour",
     "Risk management psychology",
-    "Client relationship management during drawdowns"
+    "Client relationship management during drawdowns",
+    "Group Polarization",
+    "Risky Shift",
+    "Cautious Shift",
+    "James Stoner 1961 research",
+    "Moral outbidding in teams",
+    "Persuasive arguments theory",
+    "Social comparison theory in finance"
   ]
 }
