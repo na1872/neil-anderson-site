@@ -1,6 +1,14 @@
 {
-  "latest": "2026-07-01_11-53-39.json",
+  "latest": "2026-07-02_11-17-47.json",
   "issues": [
+    {
+      "id": "2026-07-02_11-17-47",
+      "file": "2026-07-02_11-17-47.json",
+      "title": "The Sharpe Pint: Mayfair's Tax Blow, the Death of the Overnight Drift, and the Itô Tax",
+      "date": "2026-07-02",
+      "generated_at": "2026-07-02T10:17:47.178166+00:00",
+      "source_count": 19
+    },
     {
       "id": "2026-07-01_11-53-39",
       "file": "2026-07-01_11-53-39.json",

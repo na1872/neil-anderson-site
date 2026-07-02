@@ -152,7 +152,14 @@
     "IFRS 3 / ASC 805 Contingent Consideration",
     "Fair Value Adjustments on Liabilities",
     "Quality of Earnings (QofE) in Roll-ups",
-    "3-Statement Walkthrough of Earn-out Write-downs"
+    "3-Statement Walkthrough of Earn-out Write-downs",
+    "Net Working Capital Peg",
+    "NWC Target",
+    "Purchase Price Adjustments",
+    "Closing Balance Sheet",
+    "Normalisation of Working Capital",
+    "Seasonality in Working Capital",
+    "Value Leakage in M&A"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -325,7 +332,15 @@
     "Tail-Risk Scenario Generation",
     "Trajectory Balance Loss",
     "Mode Collapse in Reinforcement Learning",
-    "Formulaic Alpha Mining"
+    "Formulaic Alpha Mining",
+    "Branched Neural Rough Differential Equations",
+    "B-NRDEs",
+    "Grossman-Larson rooted trees",
+    "Munthe-Kaas-Wright planar rooted trees",
+    "Itô calculus vs Stratonovich calculus in ML",
+    "Lead-lag lifting",
+    "Symmetric Positive Definite manifold",
+    "SPD covariance dynamics"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -463,6 +478,12 @@
     "James Stoner 1961 research",
     "Moral outbidding in teams",
     "Persuasive arguments theory",
-    "Social comparison theory in finance"
+    "Social comparison theory in finance",
+    "Peltzman Effect",
+    "Risk compensation",
+    "Risk thermostat",
+    "Moral hazard in banking regulation",
+    "Simulated soloing",
+    "The Senior Review trap"
   ]
 }
