@@ -159,7 +159,14 @@
     "Closing Balance Sheet",
     "Normalisation of Working Capital",
     "Seasonality in Working Capital",
-    "Value Leakage in M&A"
+    "Value Leakage in M&A",
+    "Liquidation Preference",
+    "Participating vs Non-Participating Preferred Stock",
+    "Preference Stack",
+    "Waterfall Analysis in Private Equity",
+    "Option Pricing Model (OPM) for Private Valuations",
+    "Crossover Point in VC Valuations",
+    "Headline Valuation Distortion"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -340,7 +347,14 @@
     "Itô calculus vs Stratonovich calculus in ML",
     "Lead-lag lifting",
     "Symmetric Positive Definite manifold",
-    "SPD covariance dynamics"
+    "SPD covariance dynamics",
+    "Smooth Neural Adjoint Policy Optimization",
+    "SNAPO",
+    "Differentiable Simulation",
+    "Adjoint Sensitivity Analysis",
+    "Asset-Liability Management",
+    "Smooth Constraints",
+    "Reverse-Mode Automatic Differentiation"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -484,6 +498,9 @@
     "Risk thermostat",
     "Moral hazard in banking regulation",
     "Simulated soloing",
-    "The Senior Review trap"
+    "The Senior Review trap",
+    "Shirky Principle",
+    "Empire building in corporate structures",
+    "Incentive alignment in consulting and software adoption"
   ]
 }
