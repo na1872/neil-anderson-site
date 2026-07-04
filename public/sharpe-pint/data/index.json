@@ -1,6 +1,14 @@
 {
-  "latest": "2026-07-03_10-15-38.json",
+  "latest": "2026-07-04_10-36-01.json",
   "issues": [
+    {
+      "id": "2026-07-04_10-36-01",
+      "file": "2026-07-04_10-36-01.json",
+      "title": "The Sharpe Pint: Slack Water, Trapped Cash, and the Microstructure of Trend",
+      "date": "2026-07-04",
+      "generated_at": "2026-07-04T09:36:01.659885+00:00",
+      "source_count": 17
+    },
     {
       "id": "2026-07-03_10-15-38",
       "file": "2026-07-03_10-15-38.json",

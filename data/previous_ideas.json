@@ -166,7 +166,13 @@
     "Waterfall Analysis in Private Equity",
     "Option Pricing Model (OPM) for Private Valuations",
     "Crossover Point in VC Valuations",
-    "Headline Valuation Distortion"
+    "Headline Valuation Distortion",
+    "Section 163(j) Business Interest Limitation",
+    "Corporate Interest Restriction (CIR)",
+    "EBIT vs EBITDA interest cap",
+    "One Big Beautiful Bill Act (OBBBA)",
+    "Interest Deductibility Schedule",
+    "LBO Tax Shield modeling"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -354,7 +360,14 @@
     "Adjoint Sensitivity Analysis",
     "Asset-Liability Management",
     "Smooth Constraints",
-    "Reverse-Mode Automatic Differentiation"
+    "Reverse-Mode Automatic Differentiation",
+    "Test-Time Adaptation",
+    "TTA",
+    "Non-stationary Time Series",
+    "Entropy Minimization in TTA",
+    "Normalization Layer Adaptation",
+    "Parameter Drift",
+    "Quadratic Drift Penalty"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -501,6 +514,11 @@
     "The Senior Review trap",
     "Shirky Principle",
     "Empire building in corporate structures",
-    "Incentive alignment in consulting and software adoption"
+    "Incentive alignment in consulting and software adoption",
+    "Omission Bias",
+    "Commission Bias",
+    "Cost of Inaction (COI)",
+    "Status quo bias in portfolio management",
+    "Jonathan Baron and Ilana Ritov research"
   ]
 }
