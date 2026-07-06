@@ -172,7 +172,14 @@
     "EBIT vs EBITDA interest cap",
     "One Big Beautiful Bill Act (OBBBA)",
     "Interest Deductibility Schedule",
-    "LBO Tax Shield modeling"
+    "LBO Tax Shield modeling",
+    "Bank Valuation",
+    "Enterprise Value for Financials",
+    "EV/EBITDA for Banks",
+    "Price-to-Book (P/B) for Banks",
+    "Price-to-Tangible Book (P/TBV)",
+    "Deposits as Operating Inputs",
+    "EBITDA distortion in Financials"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -367,7 +374,12 @@
     "Entropy Minimization in TTA",
     "Normalization Layer Adaptation",
     "Parameter Drift",
-    "Quadratic Drift Penalty"
+    "Quadratic Drift Penalty",
+    "Finance-Informed Neural Network",
+    "FINN",
+    "Self-supervised replication-consistency",
+    "Dynamic replication loss",
+    "Operator-centric pricing"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -519,6 +531,11 @@
     "Commission Bias",
     "Cost of Inaction (COI)",
     "Status quo bias in portfolio management",
-    "Jonathan Baron and Ilana Ritov research"
+    "Jonathan Baron and Ilana Ritov research",
+    "Illusion of Explanatory Depth",
+    "Leonid Rozenblit and Frank Keil 2002 research",
+    "Overconfidence in technical knowledge",
+    "Meeting dynamics and managing overconfident stakeholders",
+    "Interview preparation and CV accuracy"
   ]
 }
