@@ -179,7 +179,11 @@
     "Price-to-Book (P/B) for Banks",
     "Price-to-Tangible Book (P/TBV)",
     "Deposits as Operating Inputs",
-    "EBITDA distortion in Financials"
+    "EBITDA distortion in Financials",
+    "Option Pool Shuffle",
+    "Pre-Money Option Pool Dilution",
+    "Effective Pre-Money Valuation",
+    "Cap Table Dilution Mechanics"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -379,7 +383,15 @@
     "FINN",
     "Self-supervised replication-consistency",
     "Dynamic replication loss",
-    "Operator-centric pricing"
+    "Operator-centric pricing",
+    "Neural Nonlinear Shrinkage",
+    "NNS",
+    "Eigenvalue Shrinkage",
+    "Precision Matrix Estimation",
+    "Decision-Focused Covariance Learning",
+    "Decision-Blind Shrinkage",
+    "Ledoit-Wolf Shrinkage",
+    "Random Matrix Theory in Portfolio Optimization"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -536,6 +548,11 @@
     "Leonid Rozenblit and Frank Keil 2002 research",
     "Overconfidence in technical knowledge",
     "Meeting dynamics and managing overconfident stakeholders",
-    "Interview preparation and CV accuracy"
+    "Interview preparation and CV accuracy",
+    "False Consensus Effect",
+    "Consensus Bias",
+    "Pricing psychology",
+    "Business transformation alignment",
+    "Lee Ross 1977 research"
   ]
 }
