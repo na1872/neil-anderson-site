@@ -183,7 +183,13 @@
     "Option Pool Shuffle",
     "Pre-Money Option Pool Dilution",
     "Effective Pre-Money Valuation",
-    "Cap Table Dilution Mechanics"
+    "Cap Table Dilution Mechanics",
+    "Equity Duration",
+    "Implied Equity Duration",
+    "Gordon Growth Model Duration",
+    "Value vs Growth Rate Sensitivity",
+    "Denominator Effect in DCF",
+    "Portfolio Duration Crisis"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -391,7 +397,14 @@
     "Decision-Focused Covariance Learning",
     "Decision-Blind Shrinkage",
     "Ledoit-Wolf Shrinkage",
-    "Random Matrix Theory in Portfolio Optimization"
+    "Random Matrix Theory in Portfolio Optimization",
+    "The Self-Driving Portfolio",
+    "Agentic Strategic Asset Allocation",
+    "Multi-Agent Systems in Finance",
+    "Investment Policy Statement as Control Layer",
+    "Banning LLMs from Math",
+    "Meta-Agent Code Rewriting",
+    "Fiduciary Intelligence Cycle"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -553,6 +566,11 @@
     "Consensus Bias",
     "Pricing psychology",
     "Business transformation alignment",
-    "Lee Ross 1977 research"
+    "Lee Ross 1977 research",
+    "Rhyme-as-Reason Effect",
+    "Keats Heuristic",
+    "Cognitive Fluency",
+    "Market Maxims",
+    "Persuasive Communication"
   ]
 }

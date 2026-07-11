@@ -1,6 +1,14 @@
 {
-  "latest": "2026-07-07_11-37-54.json",
+  "latest": "2026-07-11_10-07-00.json",
   "issues": [
+    {
+      "id": "2026-07-11_10-07-00",
+      "file": "2026-07-11_10-07-00.json",
+      "title": "The Sharpe Pint: AI Memory Monsters, PE Dogfights, and the Secret Macro Remote Control",
+      "date": "2026-07-11",
+      "generated_at": "2026-07-11T09:07:00.221707+00:00",
+      "source_count": 17
+    },
     {
       "id": "2026-07-07_11-37-54",
       "file": "2026-07-07_11-37-54.json",
