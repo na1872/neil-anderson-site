@@ -189,7 +189,13 @@
     "Gordon Growth Model Duration",
     "Value vs Growth Rate Sensitivity",
     "Denominator Effect in DCF",
-    "Portfolio Duration Crisis"
+    "Portfolio Duration Crisis",
+    "Subscription Lines of Credit (SLCs)",
+    "Internal Rate of Return (IRR) distortion",
+    "Unlevered vs Levered IRR",
+    "Multiple on Invested Capital (MoIC) vs IRR",
+    "ILPA Subscription Line Guidelines",
+    "Fund-level leverage"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -404,7 +410,11 @@
     "Investment Policy Statement as Control Layer",
     "Banning LLMs from Math",
     "Meta-Agent Code Rewriting",
-    "Fiduciary Intelligence Cycle"
+    "Fiduciary Intelligence Cycle",
+    "End-to-End Portfolio Optimization",
+    "Predict-then-Optimize Dilemma",
+    "Decision-Focused Portfolio Selection",
+    "Differentiable Markowitz Optimization"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -571,6 +581,11 @@
     "Keats Heuristic",
     "Cognitive Fluency",
     "Market Maxims",
-    "Persuasive Communication"
+    "Persuasive Communication",
+    "Gell-Mann Amnesia Effect",
+    "Institutional amnesia",
+    "Expert consensus bias",
+    "Model assumption risk",
+    "AI hallucination trust"
   ]
 }

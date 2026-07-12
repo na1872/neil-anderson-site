@@ -1,6 +1,14 @@
 {
-  "latest": "2026-07-11_10-07-00.json",
+  "latest": "2026-07-12_10-26-49.json",
   "issues": [
+    {
+      "id": "2026-07-12_10-26-49",
+      "file": "2026-07-12_10-26-49.json",
+      "title": "The Sharpe Pint: SK Hynix's Mega Debut, the IRR Magic Trick, and Differentiable Markowitz",
+      "date": "2026-07-12",
+      "generated_at": "2026-07-12T09:26:49.391534+00:00",
+      "source_count": 16
+    },
     {
       "id": "2026-07-11_10-07-00",
       "file": "2026-07-11_10-07-00.json",
