@@ -195,7 +195,12 @@
     "Unlevered vs Levered IRR",
     "Multiple on Invested Capital (MoIC) vs IRR",
     "ILPA Subscription Line Guidelines",
-    "Fund-level leverage"
+    "Fund-level leverage",
+    "The Capital Cycle",
+    "Supply-side analysis",
+    "Industry Capex",
+    "TAM Trap",
+    "Marathon Asset Management"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -414,7 +419,13 @@
     "End-to-End Portfolio Optimization",
     "Predict-then-Optimize Dilemma",
     "Decision-Focused Portfolio Selection",
-    "Differentiable Markowitz Optimization"
+    "Differentiable Markowitz Optimization",
+    "Shapley-Based Portfolio Performance Contribution",
+    "SPPC",
+    "Performance-Based Shapley Value",
+    "PBSV",
+    "Model Interpretability in Portfolio Construction",
+    "Decision-Aware Feature Importance"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -586,6 +597,12 @@
     "Institutional amnesia",
     "Expert consensus bias",
     "Model assumption risk",
-    "AI hallucination trust"
+    "AI hallucination trust",
+    "But You Are Free technique",
+    "BYAF",
+    "Psychological reactance",
+    "Autonomy in persuasion",
+    "Strategic deference",
+    "Compliance-gaining techniques"
   ]
 }

@@ -1,6 +1,14 @@
 {
-  "latest": "2026-07-12_10-26-49.json",
+  "latest": "2026-07-13_11-38-34.json",
   "issues": [
+    {
+      "id": "2026-07-13_11-38-34",
+      "file": "2026-07-13_11-38-34.json",
+      "title": "The Sharpe Pint: Strait Talking, Capital Cycles, and the Five Sins of Financial AI",
+      "date": "2026-07-13",
+      "generated_at": "2026-07-13T10:38:34.814416+00:00",
+      "source_count": 16
+    },
     {
       "id": "2026-07-12_10-26-49",
       "file": "2026-07-12_10-26-49.json",
