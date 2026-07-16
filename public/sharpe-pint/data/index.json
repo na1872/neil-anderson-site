@@ -1,6 +1,14 @@
 {
-  "latest": "2026-07-13_11-38-34.json",
+  "latest": "2026-07-16_10-34-22.json",
   "issues": [
+    {
+      "id": "2026-07-16_10-34-22",
+      "file": "2026-07-16_10-34-22.json",
+      "title": "The Sharpe Pint: M&A Rumbles, Forensic Accounting, and the Death of Trend",
+      "date": "2026-07-16",
+      "generated_at": "2026-07-16T09:34:22.764726+00:00",
+      "source_count": 17
+    },
     {
       "id": "2026-07-13_11-38-34",
       "file": "2026-07-13_11-38-34.json",

@@ -200,7 +200,18 @@
     "Supply-side analysis",
     "Industry Capex",
     "TAM Trap",
-    "Marathon Asset Management"
+    "Marathon Asset Management",
+    "Beneish M-Score",
+    "Earnings Manipulation",
+    "Forensic Accounting",
+    "Days Sales in Receivables Index (DSRI)",
+    "Gross Margin Index (GMI)",
+    "Asset Quality Index (AQI)",
+    "Sales Growth Index (SGI)",
+    "Depreciation Index (DEPI)",
+    "SG&A Expenses Index (SGAI)",
+    "Leverage Index (LVGI)",
+    "Total Accruals to Total Assets (TATA)"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -425,7 +436,15 @@
     "Performance-Based Shapley Value",
     "PBSV",
     "Model Interpretability in Portfolio Construction",
-    "Decision-Aware Feature Importance"
+    "Decision-Aware Feature Importance",
+    "Deep Optimal Stopping",
+    "DeepOS",
+    "Bermudan Option Pricing",
+    "Least-Squares Monte Carlo",
+    "LSM",
+    "Primal-Dual Bounds",
+    "Sequential Classification for Options",
+    "Curse of Dimensionality in Option Pricing"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -603,6 +622,11 @@
     "Psychological reactance",
     "Autonomy in persuasion",
     "Strategic deference",
-    "Compliance-gaining techniques"
+    "Compliance-gaining techniques",
+    "Gresham's Law of Planning",
+    "Herbert Simon and James March",
+    "Productive procrastination",
+    "Time-boxing and admin batching",
+    "Programmed vs non-programmed activities"
   ]
 }
