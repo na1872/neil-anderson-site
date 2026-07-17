@@ -211,7 +211,14 @@
     "Depreciation Index (DEPI)",
     "SG&A Expenses Index (SGAI)",
     "Leverage Index (LVGI)",
-    "Total Accruals to Total Assets (TATA)"
+    "Total Accruals to Total Assets (TATA)",
+    "Merton Model",
+    "Equity as a Call Option",
+    "Structural Credit Models",
+    "Distance to Default",
+    "Volatility Paradox",
+    "Wealth Transfer in Capital Structure",
+    "Distressed Equity Valuation"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -444,7 +451,13 @@
     "LSM",
     "Primal-Dual Bounds",
     "Sequential Classification for Options",
-    "Curse of Dimensionality in Option Pricing"
+    "Curse of Dimensionality in Option Pricing",
+    "Whalley-Wilmott No-Transaction Band Networks",
+    "WW-NTBN",
+    "Differentiable Soft Clamp",
+    "Action Dependence in Deep Hedging",
+    "Delta-Centring",
+    "Whalley-Wilmott Asymptotic Bandwidth"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -627,6 +640,13 @@
     "Herbert Simon and James March",
     "Productive procrastination",
     "Time-boxing and admin batching",
-    "Programmed vs non-programmed activities"
+    "Programmed vs non-programmed activities",
+    "Illusion of Asymmetric Insight",
+    "Data asymmetry in social perception",
+    "Negotiation psychology",
+    "Client relationship management",
+    "Emily Pronin",
+    "Justin Kruger",
+    "Lee Ross"
   ]
 }
