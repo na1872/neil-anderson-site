@@ -218,7 +218,13 @@
     "Distance to Default",
     "Volatility Paradox",
     "Wealth Transfer in Capital Structure",
-    "Distressed Equity Valuation"
+    "Distressed Equity Valuation",
+    "Grinold-Kroner Model",
+    "Expected Equity Returns",
+    "Supply-Side Equity Return Models",
+    "Shareholder Yield",
+    "Multiple Expansion and Contraction in Expected Returns",
+    "Strategic Asset Allocation (SAA)"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -457,7 +463,14 @@
     "Differentiable Soft Clamp",
     "Action Dependence in Deep Hedging",
     "Delta-Centring",
-    "Whalley-Wilmott Asymptotic Bandwidth"
+    "Whalley-Wilmott Asymptotic Bandwidth",
+    "R&D-Agent-Quant",
+    "RD-Agent(Q)",
+    "Co-STEER",
+    "Coordinated Factor-Model Co-Optimization",
+    "Closed-Loop Quant R&D",
+    "Multi-Agent Systems in Quant Finance",
+    "Data Mining Bias in AI Agents"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -647,6 +660,12 @@
     "Client relationship management",
     "Emily Pronin",
     "Justin Kruger",
-    "Lee Ross"
+    "Lee Ross",
+    "Barnum Effect",
+    "Forer Effect",
+    "Corporate personality tests",
+    "Myers-Briggs Type Indicator (MBTI)",
+    "Insights Discovery",
+    "Subjective validation"
   ]
 }
