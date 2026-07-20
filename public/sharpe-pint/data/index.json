@@ -1,6 +1,14 @@
 {
-  "latest": "2026-07-18_10-08-17.json",
+  "latest": "2026-07-20_11-25-03.json",
   "issues": [
+    {
+      "id": "2026-07-20_11-25-03",
+      "file": "2026-07-20_11-25-03.json",
+      "title": "The Sharpe Pint: Hormuz on Fire, the Great Chip Reset, and Why Your Friday Self is a Liar",
+      "date": "2026-07-20",
+      "generated_at": "2026-07-20T10:25:03.425297+00:00",
+      "source_count": 16
+    },
     {
       "id": "2026-07-18_10-08-17",
       "file": "2026-07-18_10-08-17.json",

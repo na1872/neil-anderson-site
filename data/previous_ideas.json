@@ -224,7 +224,12 @@
     "Supply-Side Equity Return Models",
     "Shareholder Yield",
     "Multiple Expansion and Contraction in Expected Returns",
-    "Strategic Asset Allocation (SAA)"
+    "Strategic Asset Allocation (SAA)",
+    "EV/Invested Capital (EV/IC) Multiple",
+    "Fundamental Identity of Valuation",
+    "ROIC-WACC Spread",
+    "Value-Destroying Growth",
+    "Steady-State Valuation Multiples"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -470,7 +475,11 @@
     "Coordinated Factor-Model Co-Optimization",
     "Closed-Loop Quant R&D",
     "Multi-Agent Systems in Quant Finance",
-    "Data Mining Bias in AI Agents"
+    "Data Mining Bias in AI Agents",
+    "Implicit Generative Copulas",
+    "Differentiable Soft-Rank",
+    "Probability Integral Transform in ML",
+    "High-Dimensional Copula Estimation"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -666,6 +675,10 @@
     "Corporate personality tests",
     "Myers-Briggs Type Indicator (MBTI)",
     "Insights Discovery",
-    "Subjective validation"
+    "Subjective validation",
+    "Hot-Cold Empathy Gap",
+    "George Loewenstein",
+    "Decision-making under stress",
+    "Friday-afternoon overcommitment"
   ]
 }
