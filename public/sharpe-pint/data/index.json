@@ -1,6 +1,14 @@
 {
-  "latest": "2026-07-20_11-25-03.json",
+  "latest": "2026-07-21_11-01-44.json",
   "issues": [
+    {
+      "id": "2026-07-21_11-01-44",
+      "file": "2026-07-21_11-01-44.json",
+      "title": "The Sharpe Pint: Tariffs, Gilt Spikes, and the AI Beta Premium",
+      "date": "2026-07-21",
+      "generated_at": "2026-07-21T10:01:44.907139+00:00",
+      "source_count": 19
+    },
     {
       "id": "2026-07-20_11-25-03",
       "file": "2026-07-20_11-25-03.json",

@@ -229,7 +229,13 @@
     "Fundamental Identity of Valuation",
     "ROIC-WACC Spread",
     "Value-Destroying Growth",
-    "Steady-State Valuation Multiples"
+    "Steady-State Valuation Multiples",
+    "Investment Trust NAV Discount",
+    "Closed-End Fund Discount",
+    "Saba Capital Activism",
+    "Continuation Votes",
+    "Share Buyback Accretion",
+    "Discount Trap"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -479,7 +485,15 @@
     "Implicit Generative Copulas",
     "Differentiable Soft-Rank",
     "Probability Integral Transform in ML",
-    "High-Dimensional Copula Estimation"
+    "High-Dimensional Copula Estimation",
+    "Variable Selection Networks",
+    "VSN",
+    "Gated Residual Networks",
+    "GRN",
+    "VSN-LSTM",
+    "VSN-xLSTM",
+    "Regime-Aware Feature Selection",
+    "Dynamic Feature Filtering"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -679,6 +693,11 @@
     "Hot-Cold Empathy Gap",
     "George Loewenstein",
     "Decision-making under stress",
-    "Friday-afternoon overcommitment"
+    "Friday-afternoon overcommitment",
+    "Focusing Illusion",
+    "Affective forecasting",
+    "Deal fever",
+    "Career anxiety",
+    "Negotiation reframing"
   ]
 }
