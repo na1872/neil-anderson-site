@@ -235,7 +235,12 @@
     "Saba Capital Activism",
     "Continuation Votes",
     "Share Buyback Accretion",
-    "Discount Trap"
+    "Discount Trap",
+    "Net Asset Value (NAV) Loans",
+    "NAV Financing",
+    "Subscription Lines of Credit vs NAV Loans",
+    "Leverage on leverage",
+    "Private Credit Fund Finance"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -493,7 +498,12 @@
     "VSN-LSTM",
     "VSN-xLSTM",
     "Regime-Aware Feature Selection",
-    "Dynamic Feature Filtering"
+    "Dynamic Feature Filtering",
+    "Deep Parametric Portfolio Policies",
+    "DPPP",
+    "Economic Regularisation",
+    "Direct Weight Optimisation",
+    "Parametric Portfolio Policies"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -698,6 +708,11 @@
     "Affective forecasting",
     "Deal fever",
     "Career anxiety",
-    "Negotiation reframing"
+    "Negotiation reframing",
+    "Peter Principle",
+    "Promotions and the Peter Principle",
+    "Benson, Li, and Shue 2019",
+    "Managerial mismatch",
+    "Individual contributor vs manager track"
   ]
 }
