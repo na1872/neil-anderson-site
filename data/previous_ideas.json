@@ -240,7 +240,15 @@
     "NAV Financing",
     "Subscription Lines of Credit vs NAV Loans",
     "Leverage on leverage",
-    "Private Credit Fund Finance"
+    "Private Credit Fund Finance",
+    "Hamada Equation",
+    "Levered Beta",
+    "Unlevered Beta",
+    "Asset Beta",
+    "Capital Structure Risk",
+    "Cost of Equity adjustment",
+    "Modigliani-Miller Theorem",
+    "CAPM Beta"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -503,7 +511,13 @@
     "DPPP",
     "Economic Regularisation",
     "Direct Weight Optimisation",
-    "Parametric Portfolio Policies"
+    "Parametric Portfolio Policies",
+    "Tail-GAN",
+    "Joint Elicitability",
+    "Fissler-Ziegel Loss",
+    "FZ0 Loss",
+    "Expected Shortfall Elicitability",
+    "Tail-Blindness in GANs"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -713,6 +727,11 @@
     "Promotions and the Peter Principle",
     "Benson, Li, and Shue 2019",
     "Managerial mismatch",
-    "Individual contributor vs manager track"
+    "Individual contributor vs manager track",
+    "Compromise Effect",
+    "Extremeness Aversion",
+    "Itamar Simonson 1989 research",
+    "Pricing psychology in fee negotiations",
+    "Choice architecture in client pitching"
   ]
 }

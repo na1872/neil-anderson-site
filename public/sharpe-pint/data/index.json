@@ -1,6 +1,14 @@
 {
-  "latest": "2026-07-22_10-59-17.json",
+  "latest": "2026-07-23_10-58-00.json",
   "issues": [
+    {
+      "id": "2026-07-23_10-58-00",
+      "file": "2026-07-23_10-58-00.json",
+      "title": "The Sharpe Pint: AI Capex Panic, the Hamada Equation, and Why Trend-Following Broke",
+      "date": "2026-07-23",
+      "generated_at": "2026-07-23T09:58:00.936918+00:00",
+      "source_count": 15
+    },
     {
       "id": "2026-07-22_10-59-17",
       "file": "2026-07-22_10-59-17.json",
