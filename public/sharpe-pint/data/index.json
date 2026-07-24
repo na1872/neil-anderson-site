@@ -1,6 +1,14 @@
 {
-  "latest": "2026-07-23_10-58-00.json",
+  "latest": "2026-07-24_10-55-26.json",
   "issues": [
+    {
+      "id": "2026-07-24_10-55-26",
+      "file": "2026-07-24_10-55-26.json",
+      "title": "The Sharpe Pint: Triple-Digit Crude, Tech Capex Hangovers, and Phantom Alpha",
+      "date": "2026-07-24",
+      "generated_at": "2026-07-24T09:55:26.750857+00:00",
+      "source_count": 17
+    },
     {
       "id": "2026-07-23_10-58-00",
       "file": "2026-07-23_10-58-00.json",

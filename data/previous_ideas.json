@@ -248,7 +248,13 @@
     "Capital Structure Risk",
     "Cost of Equity adjustment",
     "Modigliani-Miller Theorem",
-    "CAPM Beta"
+    "CAPM Beta",
+    "Implied Equity Risk Premium (ERP)",
+    "Equity Risk Premium (ERP)",
+    "Damodaran ERP",
+    "Forward-looking Cost of Equity",
+    "Gordon Growth Model ERP",
+    "Market Risk Premium"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -517,7 +523,13 @@
     "Fissler-Ziegel Loss",
     "FZ0 Loss",
     "Expected Shortfall Elicitability",
-    "Tail-Blindness in GANs"
+    "Tail-Blindness in GANs",
+    "Upstream Contamination",
+    "Mask-First Design Pattern",
+    "Limit-Move Bias",
+    "Mask-Aware Primitives",
+    "Post-Hoc Row Deletion",
+    "Phantom Alpha"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -732,6 +744,11 @@
     "Extremeness Aversion",
     "Itamar Simonson 1989 research",
     "Pricing psychology in fee negotiations",
-    "Choice architecture in client pitching"
+    "Choice architecture in client pitching",
+    "Pygmalion Effect",
+    "Golem Effect",
+    "Self-fulfilling prophecies in management",
+    "Onboarding psychology",
+    "Managing upwards with positive reinforcement"
   ]
 }
