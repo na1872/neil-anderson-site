@@ -254,7 +254,12 @@
     "Damodaran ERP",
     "Forward-looking Cost of Equity",
     "Gordon Growth Model ERP",
-    "Market Risk Premium"
+    "Market Risk Premium",
+    "WACC Fallacy",
+    "Divisional Cost of Capital",
+    "Capital Misallocation",
+    "Hurdle Rate Distortion",
+    "M&A Overvaluation"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -529,7 +534,12 @@
     "Limit-Move Bias",
     "Mask-Aware Primitives",
     "Post-Hoc Row Deletion",
-    "Phantom Alpha"
+    "Phantom Alpha",
+    "Hierarchical Attention Network",
+    "HANET",
+    "Mixed-Frequency Time Series",
+    "Macro-Aware Forecasting",
+    "Hierarchical Cross-Attention"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -749,6 +759,14 @@
     "Golem Effect",
     "Self-fulfilling prophecies in management",
     "Onboarding psychology",
-    "Managing upwards with positive reinforcement"
+    "Managing upwards with positive reinforcement",
+    "Door-in-the-Face Technique",
+    "DITF",
+    "Robert Cialdini 1975 research",
+    "Reciprocal concessions",
+    "Perceptual contrast",
+    "Oliver Genschow 2021 replication",
+    "Negotiation tactics in finance",
+    "Managing deadlines and fees"
   ]
 }
