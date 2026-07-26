@@ -1,6 +1,14 @@
 {
-  "latest": "2026-07-25_10-17-33.json",
+  "latest": "2026-07-26_10-32-50.json",
   "issues": [
+    {
+      "id": "2026-07-26_10-32-50",
+      "file": "2026-07-26_10-32-50.json",
+      "title": "The Sharpe Pint: Ticking Fees, Tariff Walls, and the HFT Liquidity Trap",
+      "date": "2026-07-26",
+      "generated_at": "2026-07-26T09:32:50.981153+00:00",
+      "source_count": 16
+    },
     {
       "id": "2026-07-25_10-17-33",
       "file": "2026-07-25_10-17-33.json",

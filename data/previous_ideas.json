@@ -259,7 +259,14 @@
     "Divisional Cost of Capital",
     "Capital Misallocation",
     "Hurdle Rate Distortion",
-    "M&A Overvaluation"
+    "M&A Overvaluation",
+    "Implied Cap Rate",
+    "Appraisal Cap Rate",
+    "Net Operating Income (NOI)",
+    "Appraisal Smoothing",
+    "Public-Private Real Estate Valuation Disconnect",
+    "REIT Valuation",
+    "The Denominator Effect in Real Estate"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -539,7 +546,13 @@
     "HANET",
     "Mixed-Frequency Time Series",
     "Macro-Aware Forecasting",
-    "Hierarchical Cross-Attention"
+    "Hierarchical Cross-Attention",
+    "Underspecification in Financial ML",
+    "Optimiser as an Implicit Prior",
+    "Sharpe-Turnover Frontier",
+    "Functional Roughness",
+    "Prediction Volatility",
+    "Implicit Regularisation in Financial Time Series"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -767,6 +780,11 @@
     "Perceptual contrast",
     "Oliver Genschow 2021 replication",
     "Negotiation tactics in finance",
-    "Managing deadlines and fees"
+    "Managing deadlines and fees",
+    "Information Bias",
+    "Baron Beattie Hershey 1988",
+    "Analysis paralysis",
+    "So What? Test",
+    "Redundant data in decision-making"
   ]
 }
