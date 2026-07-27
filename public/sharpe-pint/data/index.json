@@ -1,6 +1,14 @@
 {
-  "latest": "2026-07-26_10-32-50.json",
+  "latest": "2026-07-27_11-53-45.json",
   "issues": [
+    {
+      "id": "2026-07-27_11-53-45",
+      "file": "2026-07-27_11-53-45.json",
+      "title": "The Sharpe Pint: Volatility, Reflexivity, and the Illusion of Yield",
+      "date": "2026-07-27",
+      "generated_at": "2026-07-27T10:53:45.834060+00:00",
+      "source_count": 15
+    },
     {
       "id": "2026-07-26_10-32-50",
       "file": "2026-07-26_10-32-50.json",

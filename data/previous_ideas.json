@@ -266,7 +266,14 @@
     "Appraisal Smoothing",
     "Public-Private Real Estate Valuation Disconnect",
     "REIT Valuation",
-    "The Denominator Effect in Real Estate"
+    "The Denominator Effect in Real Estate",
+    "Option-Adjusted Spread (OAS)",
+    "Z-Spread (Zero-Volatility Spread)",
+    "G-Spread",
+    "Callable Bonds",
+    "Putable Bonds",
+    "Embedded Options in Bonds",
+    "Interest Rate Volatility Impact on Spreads"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -552,7 +559,11 @@
     "Sharpe-Turnover Frontier",
     "Functional Roughness",
     "Prediction Volatility",
-    "Implicit Regularisation in Financial Time Series"
+    "Implicit Regularisation in Financial Time Series",
+    "Signature-Based Volatility Model Identification",
+    "Model Selection via Path Geometry",
+    "Time-Augmented Path Signatures",
+    "Geometric Volatility Classification"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -785,6 +796,12 @@
     "Baron Beattie Hershey 1988",
     "Analysis paralysis",
     "So What? Test",
-    "Redundant data in decision-making"
+    "Redundant data in decision-making",
+    "Less-is-Better Effect",
+    "Evaluability Hypothesis",
+    "Christopher Hsee 1998 research",
+    "CV dilution",
+    "Pitch deck optimization",
+    "Deliverable framing"
   ]
 }
