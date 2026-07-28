@@ -273,7 +273,15 @@
     "Callable Bonds",
     "Putable Bonds",
     "Embedded Options in Bonds",
-    "Interest Rate Volatility Impact on Spreads"
+    "Interest Rate Volatility Impact on Spreads",
+    "Locked Box Mechanism",
+    "Completion Accounts",
+    "Closing Accounts",
+    "Leakage",
+    "Permitted Leakage",
+    "Ticker / Ticking Fee",
+    "Interim Period in M&A",
+    "Clean Exit in PE"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -563,7 +571,14 @@
     "Signature-Based Volatility Model Identification",
     "Model Selection via Path Geometry",
     "Time-Augmented Path Signatures",
-    "Geometric Volatility Classification"
+    "Geometric Volatility Classification",
+    "Signature Kernel",
+    "Goursat PDE",
+    "pySigLib",
+    "Local Neumann Series Expansions",
+    "Numerical Schemes for Signature Kernels",
+    "Infinite-Dimensional Feature Maps",
+    "Path-Dependent Time Series"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -802,6 +817,12 @@
     "Christopher Hsee 1998 research",
     "CV dilution",
     "Pitch deck optimization",
-    "Deliverable framing"
+    "Deliverable framing",
+    "Fredkin's Paradox",
+    "Decision paralysis",
+    "Cost of decision-making",
+    "Majoring in minors",
+    "Edward Fredkin",
+    "Marvin Minsky"
   ]
 }

@@ -1,6 +1,14 @@
 {
-  "latest": "2026-07-27_11-53-45.json",
+  "latest": "2026-07-28_11-06-30.json",
   "issues": [
+    {
+      "id": "2026-07-28_11-06-30",
+      "file": "2026-07-28_11-06-30.json",
+      "title": "The Sharpe Pint: Circular AI, Locked Boxes, and the Fredkin Loop",
+      "date": "2026-07-28",
+      "generated_at": "2026-07-28T10:06:30.458031+00:00",
+      "source_count": 19
+    },
     {
       "id": "2026-07-27_11-53-45",
       "file": "2026-07-27_11-53-45.json",
