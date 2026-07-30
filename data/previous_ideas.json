@@ -281,7 +281,12 @@
     "Permitted Leakage",
     "Ticker / Ticking Fee",
     "Interim Period in M&A",
-    "Clean Exit in PE"
+    "Clean Exit in PE",
+    "Debt Pushdown",
+    "Structural Subordination",
+    "Financial Assistance Rules",
+    "Upstream Guarantees",
+    "Merger LBO"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -578,7 +583,13 @@
     "Local Neumann Series Expansions",
     "Numerical Schemes for Signature Kernels",
     "Infinite-Dimensional Feature Maps",
-    "Path-Dependent Time Series"
+    "Path-Dependent Time Series",
+    "DeepMartingale",
+    "Pure-Dual Deep Learning",
+    "Martingale Representation Theorem",
+    "Backward Recursion in Duality",
+    "High-Dimensional Delta Hedging",
+    "Optimal Switching Duality"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -823,6 +834,12 @@
     "Cost of decision-making",
     "Majoring in minors",
     "Edward Fredkin",
-    "Marvin Minsky"
+    "Marvin Minsky",
+    "Next-in-Line Effect",
+    "Malcolm Brenner 1973 research",
+    "Charles Bond 1985 research",
+    "Encoding vs retrieval failure",
+    "Meeting dynamics and active listening",
+    "Pitch presentation blindspots"
   ]
 }
