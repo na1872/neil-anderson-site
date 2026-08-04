@@ -286,7 +286,12 @@
     "Structural Subordination",
     "Financial Assistance Rules",
     "Upstream Guarantees",
-    "Merger LBO"
+    "Merger LBO",
+    "Greenshoe Option",
+    "Over-allotment Option",
+    "IPO Price Stabilisation",
+    "Syndicate Short Covering",
+    "Equity Capital Markets (ECM) mechanics"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -589,7 +594,13 @@
     "Martingale Representation Theorem",
     "Backward Recursion in Duality",
     "High-Dimensional Delta Hedging",
-    "Optimal Switching Duality"
+    "Optimal Switching Duality",
+    "Dynamic Level Injection",
+    "Student-t Conditional Variational Autoencoder",
+    "CVAEsT+LS",
+    "No-Arbitrage PDE Penalised Neural SDEs",
+    "Yield Curve Manifold Learning",
+    "Fixed-Income Scenario Generation"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -840,6 +851,11 @@
     "Charles Bond 1985 research",
     "Encoding vs retrieval failure",
     "Meeting dynamics and active listening",
-    "Pitch presentation blindspots"
+    "Pitch presentation blindspots",
+    "Escalation of Commitment",
+    "Barry Staw 1976 research",
+    "Knee-Deep in the Big Muddy",
+    "Ego preservation in decision-making",
+    "Managing upwards on failing projects"
   ]
 }
