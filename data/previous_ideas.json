@@ -291,7 +291,12 @@
     "Over-allotment Option",
     "IPO Price Stabilisation",
     "Syndicate Short Covering",
-    "Equity Capital Markets (ECM) mechanics"
+    "Equity Capital Markets (ECM) mechanics",
+    "Duration Times Spread (DTS)",
+    "Spread Duration",
+    "Credit Volatility",
+    "Relative Spread Changes",
+    "Credit Risk Measurement"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -600,7 +605,14 @@
     "CVAEsT+LS",
     "No-Arbitrage PDE Penalised Neural SDEs",
     "Yield Curve Manifold Learning",
-    "Fixed-Income Scenario Generation"
+    "Fixed-Income Scenario Generation",
+    "DeRegiME",
+    "Deep Regime Mixtures",
+    "Latent Uncertainty Regimes",
+    "Sparse Variational Gaussian Processes",
+    "Student-t Mixture Likelihood",
+    "Stick-Breaking Gate",
+    "Probabilistic Forecasting under Distribution Shift"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -856,6 +868,11 @@
     "Barry Staw 1976 research",
     "Knee-Deep in the Big Muddy",
     "Ego preservation in decision-making",
-    "Managing upwards on failing projects"
+    "Managing upwards on failing projects",
+    "Von Restorff Effect",
+    "Isolation Effect",
+    "Visual speed bumps in presentations",
+    "CV differentiation",
+    "Pattern interruption in communication"
   ]
 }
