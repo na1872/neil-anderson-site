@@ -296,7 +296,13 @@
     "Spread Duration",
     "Credit Volatility",
     "Relative Spread Changes",
-    "Credit Risk Measurement"
+    "Credit Risk Measurement",
+    "Roll Yield",
+    "Contango",
+    "Backwardation",
+    "Futures Term Structure",
+    "Commodity ETF Drag",
+    "USO ETF Mechanics"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -612,7 +618,12 @@
     "Sparse Variational Gaussian Processes",
     "Student-t Mixture Likelihood",
     "Stick-Breaking Gate",
-    "Probabilistic Forecasting under Distribution Shift"
+    "Probabilistic Forecasting under Distribution Shift",
+    "Decision-focused Sparse Tangent Portfolio Optimization",
+    "Differentiable soft top-k operator",
+    "Bisection search in DFL",
+    "Cardinality-constrained portfolios",
+    "cvxpylayers in sparse portfolios"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -873,6 +884,13 @@
     "Isolation Effect",
     "Visual speed bumps in presentations",
     "CV differentiation",
-    "Pattern interruption in communication"
+    "Pattern interruption in communication",
+    "Distinction Bias",
+    "Joint Evaluation Mode",
+    "Single Evaluation Mode",
+    "Christopher Hsee",
+    "Jiao Zhang",
+    "Comparison Mode vs Experience Mode",
+    "Decision-making in procurement and career choices"
   ]
 }
