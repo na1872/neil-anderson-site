@@ -302,7 +302,16 @@
     "Backwardation",
     "Futures Term Structure",
     "Commodity ETF Drag",
-    "USO ETF Mechanics"
+    "USO ETF Mechanics",
+    "Prepayment Risk",
+    "Contraction Risk",
+    "Extension Risk",
+    "Negative Convexity",
+    "Effective Duration",
+    "Weighted Average Life (WAL)",
+    "Agency MBS",
+    "Dynamic Hedging",
+    "Convexity Hedging"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -623,7 +632,12 @@
     "Differentiable soft top-k operator",
     "Bisection search in DFL",
     "Cardinality-constrained portfolios",
-    "cvxpylayers in sparse portfolios"
+    "cvxpylayers in sparse portfolios",
+    "Intent-to-Treat Reporting",
+    "Seed-Picking",
+    "Financial Reinforcement Learning Reproducibility",
+    "Seed Lottery",
+    "Run Ledger"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -891,6 +905,13 @@
     "Christopher Hsee",
     "Jiao Zhang",
     "Comparison Mode vs Experience Mode",
-    "Decision-making in procurement and career choices"
+    "Decision-making in procurement and career choices",
+    "Zeigarnik Effect",
+    "Ovsiankina Effect",
+    "Hemingway Trick",
+    "Task resumption",
+    "Quasi-need",
+    "Cognitive dissonance in productivity",
+    "Client onboarding psychology"
   ]
 }
