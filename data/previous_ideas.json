@@ -311,7 +311,12 @@
     "Weighted Average Life (WAL)",
     "Agency MBS",
     "Dynamic Hedging",
-    "Convexity Hedging"
+    "Convexity Hedging",
+    "Excess Cash Flow (ECF) Sweep",
+    "Cash Sweep",
+    "Mandatory Prepayment",
+    "LBO Debt Schedule",
+    "Leverage Step-downs"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -637,7 +642,13 @@
     "Seed-Picking",
     "Financial Reinforcement Learning Reproducibility",
     "Seed Lottery",
-    "Run Ledger"
+    "Run Ledger",
+    "Latent Flow Matching",
+    "Arbitrage-Regularised VAE",
+    "Implied Volatility Surface Generation",
+    "Calendar-Spread Penalty",
+    "Butterfly-Arbitrage Penalty",
+    "Flow Matching in Finance"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -912,6 +923,13 @@
     "Task resumption",
     "Quasi-need",
     "Cognitive dissonance in productivity",
-    "Client onboarding psychology"
+    "Client onboarding psychology",
+    "Moral Licensing",
+    "Self-Licensing",
+    "Disclosure-Induced Moral Licensing",
+    "Benoît Monin and Dale Miller 2001 research",
+    "Canace et al. 2023 research",
+    "Corporate Social Responsibility biases",
+    "Negotiation moral equity"
   ]
 }
