@@ -316,7 +316,14 @@
     "Cash Sweep",
     "Mandatory Prepayment",
     "LBO Debt Schedule",
-    "Leverage Step-downs"
+    "Leverage Step-downs",
+    "Active Share",
+    "Closet Indexing",
+    "Active Share vs Tracking Error",
+    "Implied Active Fee",
+    "Overlap Drag",
+    "Martijn Cremers",
+    "Antti Petajisto"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -648,7 +655,12 @@
     "Implied Volatility Surface Generation",
     "Calendar-Spread Penalty",
     "Butterfly-Arbitrage Penalty",
-    "Flow Matching in Finance"
+    "Flow Matching in Finance",
+    "Attention Factors for Statistical Arbitrage",
+    "Joint Factor and Trading Policy Optimization",
+    "Weak Factors in Statistical Arbitrage",
+    "End-to-End Net Sharpe Optimization",
+    "One-Step Statistical Arbitrage"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -930,6 +942,13 @@
     "Benoît Monin and Dale Miller 2001 research",
     "Canace et al. 2023 research",
     "Corporate Social Responsibility biases",
-    "Negotiation moral equity"
+    "Negotiation moral equity",
+    "Saying-is-Believing Effect",
+    "Audience Tuning Effect",
+    "Shared Reality Theory",
+    "E. Tory Higgins",
+    "William S. Rholes",
+    "Cognitive consistency in communication",
+    "Feedback loops in investment research"
   ]
 }
