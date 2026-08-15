@@ -1,6 +1,14 @@
 {
-  "latest": "2026-08-14_09-44-51.json",
+  "latest": "2026-08-15_08-52-29.json",
   "issues": [
+    {
+      "id": "2026-08-15_08-52-29",
+      "file": "2026-08-15_08-52-29.json",
+      "title": "The Sharpe Pint: SpaceX's $60bn Code Play, Volatility Physics, and the Hard-Easy Trap",
+      "date": "2026-08-15",
+      "generated_at": "2026-08-15T07:52:29.911328+00:00",
+      "source_count": 20
+    },
     {
       "id": "2026-08-14_09-44-51",
       "file": "2026-08-14_09-44-51.json",

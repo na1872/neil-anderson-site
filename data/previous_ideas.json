@@ -323,7 +323,13 @@
     "Implied Active Fee",
     "Overlap Drag",
     "Martijn Cremers",
-    "Antti Petajisto"
+    "Antti Petajisto",
+    "Kelly Criterion",
+    "Position Sizing",
+    "Risk of Ruin",
+    "Fractional Kelly",
+    "Geometric Growth vs Expected Value",
+    "Half-Kelly Sizing"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -660,7 +666,13 @@
     "Joint Factor and Trading Policy Optimization",
     "Weak Factors in Statistical Arbitrage",
     "End-to-End Net Sharpe Optimization",
-    "One-Step Statistical Arbitrage"
+    "One-Step Statistical Arbitrage",
+    "SANOS",
+    "DYSANOS",
+    "Arbitrage-Free Option Surfaces",
+    "Linear Programming in Volatility Calibration",
+    "Convex Combination of Black-Scholes Prices",
+    "Generative Volatility Surface Simulation"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -949,6 +961,11 @@
     "E. Tory Higgins",
     "William S. Rholes",
     "Cognitive consistency in communication",
-    "Feedback loops in investment research"
+    "Feedback loops in investment research",
+    "Hard-Easy Effect",
+    "Overconfidence in complex tasks",
+    "Underconfidence in simple tasks",
+    "Project management biases",
+    "Sarah Lichtenstein and Baruch Fischhoff 1977 research"
   ]
 }
