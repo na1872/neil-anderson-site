@@ -1,6 +1,14 @@
 {
-  "latest": "2026-08-15_08-52-29.json",
+  "latest": "2026-08-19_09-03-02.json",
   "issues": [
+    {
+      "id": "2026-08-19_09-03-02",
+      "file": "2026-08-19_09-03-02.json",
+      "title": "The Sharpe Pint: Bond Routs, PE Waterfalls, and the Sleeper Effect",
+      "date": "2026-08-19",
+      "generated_at": "2026-08-19T08:03:02.521350+00:00",
+      "source_count": 16
+    },
     {
       "id": "2026-08-15_08-52-29",
       "file": "2026-08-15_08-52-29.json",

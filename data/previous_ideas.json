@@ -329,7 +329,17 @@
     "Risk of Ruin",
     "Fractional Kelly",
     "Geometric Growth vs Expected Value",
-    "Half-Kelly Sizing"
+    "Half-Kelly Sizing",
+    "Distribution Waterfall",
+    "European Waterfall",
+    "American Waterfall",
+    "Whole-Fund Waterfall",
+    "Deal-by-Deal Waterfall",
+    "Preferred Return Hurdle",
+    "GP Catch-Up",
+    "Carried Interest Split",
+    "Clawback Provision",
+    "ILPA Guidelines"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -672,7 +682,14 @@
     "Arbitrage-Free Option Surfaces",
     "Linear Programming in Volatility Calibration",
     "Convex Combination of Black-Scholes Prices",
-    "Generative Volatility Surface Simulation"
+    "Generative Volatility Surface Simulation",
+    "Integrated Prediction and Multi-period Portfolio Optimization",
+    "IPMO",
+    "Mirror-Descent Fixed-Point Differentiation",
+    "MDFP",
+    "Differentiable Multi-period Portfolio Optimization",
+    "KKT Factorization Bottleneck",
+    "Fixed-Point Differentiation"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -966,6 +983,12 @@
     "Overconfidence in complex tasks",
     "Underconfidence in simple tasks",
     "Project management biases",
-    "Sarah Lichtenstein and Baruch Fischhoff 1977 research"
+    "Sarah Lichtenstein and Baruch Fischhoff 1977 research",
+    "Sleeper Effect",
+    "Source credibility decay",
+    "Dissociation hypothesis",
+    "Carl Hovland 1951 research",
+    "Source auditing in decision-making",
+    "Underdog pitching strategy"
   ]
 }
