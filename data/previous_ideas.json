@@ -339,7 +339,15 @@
     "GP Catch-Up",
     "Carried Interest Split",
     "Clawback Provision",
-    "ILPA Guidelines"
+    "ILPA Guidelines",
+    "GP-Led Secondaries",
+    "Continuation Funds",
+    "Continuation Vehicles (CVs)",
+    "Single-Asset Continuation Vehicles (SACVs)",
+    "Private Equity Secondary Market",
+    "LP Liquidity",
+    "GP-LP Conflicts of Interest",
+    "ILPA Continuation Fund Guidelines"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -689,7 +697,14 @@
     "MDFP",
     "Differentiable Multi-period Portfolio Optimization",
     "KKT Factorization Bottleneck",
-    "Fixed-Point Differentiation"
+    "Fixed-Point Differentiation",
+    "OPHR",
+    "Option Position Agent",
+    "Hedger Routing Agent",
+    "Multi-Agent Reinforcement Learning for Volatility Trading",
+    "Gamma Scalping in RL",
+    "Dynamic Delta Hedging in RL",
+    "Variance Risk Premium Optimization"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -989,6 +1004,13 @@
     "Dissociation hypothesis",
     "Carl Hovland 1951 research",
     "Source auditing in decision-making",
-    "Underdog pitching strategy"
+    "Underdog pitching strategy",
+    "Third-Person Effect",
+    "Third-Person Perception",
+    "Market herding psychology",
+    "Keynesian Beauty Contest",
+    "W. Phillips Davison 1983 research",
+    "Speculative bubbles",
+    "Pitching psychology"
   ]
 }

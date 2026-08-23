@@ -1,6 +1,14 @@
 {
-  "latest": "2026-08-19_09-03-02.json",
+  "latest": "2026-08-23_08-56-17.json",
   "issues": [
+    {
+      "id": "2026-08-23_08-56-17",
+      "file": "2026-08-23_08-56-17.json",
+      "title": "The Sharpe Pint: Bond Vigilantes, Executive Twins, and the €825m Algorithmic Axing",
+      "date": "2026-08-23",
+      "generated_at": "2026-08-23T07:56:17.691350+00:00",
+      "source_count": 15
+    },
     {
       "id": "2026-08-19_09-03-02",
       "file": "2026-08-19_09-03-02.json",
