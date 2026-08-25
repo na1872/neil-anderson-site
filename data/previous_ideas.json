@@ -347,7 +347,13 @@
     "Private Equity Secondary Market",
     "LP Liquidity",
     "GP-LP Conflicts of Interest",
-    "ILPA Continuation Fund Guidelines"
+    "ILPA Continuation Fund Guidelines",
+    "Dispersion Trading",
+    "Correlation Risk Premium",
+    "Index Volatility vs Single-Stock Volatility",
+    "Vega-Neutral Hedging",
+    "Volatility Smile Steepening",
+    "Idiosyncratic Volatility Baskets"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -704,7 +710,11 @@
     "Multi-Agent Reinforcement Learning for Volatility Trading",
     "Gamma Scalping in RL",
     "Dynamic Delta Hedging in RL",
-    "Variance Risk Premium Optimization"
+    "Variance Risk Premium Optimization",
+    "Calibration-Induced Degeneracy",
+    "Calibration-Viability Checkpoint",
+    "LLM Financial Forecasting",
+    "Dumb Baseline"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -1011,6 +1021,11 @@
     "Keynesian Beauty Contest",
     "W. Phillips Davison 1983 research",
     "Speculative bubbles",
-    "Pitching psychology"
+    "Pitching psychology",
+    "Reactive Devaluation",
+    "Lee Ross and Constance Stillinger 1988 research",
+    "Negotiation bias",
+    "Front Office vs Risk friction",
+    "Shuttle diplomacy in business"
   ]
 }
