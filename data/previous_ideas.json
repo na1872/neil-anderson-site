@@ -353,7 +353,12 @@
     "Index Volatility vs Single-Stock Volatility",
     "Vega-Neutral Hedging",
     "Volatility Smile Steepening",
-    "Idiosyncratic Volatility Baskets"
+    "Idiosyncratic Volatility Baskets",
+    "Modified Internal Rate of Return (MIRR)",
+    "Reinvestment Rate Assumption",
+    "IRR vs MIRR",
+    "Capital Budgeting Flaws",
+    "Terminal Value of Cash Flows"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -714,7 +719,12 @@
     "Calibration-Induced Degeneracy",
     "Calibration-Viability Checkpoint",
     "LLM Financial Forecasting",
-    "Dumb Baseline"
+    "Dumb Baseline",
+    "Decision-centric compatibility",
+    "Compatibility vs Realism in Deep Hedging",
+    "Compatibility Gap",
+    "Learnability in Deep Hedging",
+    "Integral Probability Metric in Scenario Generation"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -1026,6 +1036,10 @@
     "Lee Ross and Constance Stillinger 1988 research",
     "Negotiation bias",
     "Front Office vs Risk friction",
-    "Shuttle diplomacy in business"
+    "Shuttle diplomacy in business",
+    "Pique Technique",
+    "Mindless refusal scripts",
+    "Pattern interruption in professional communication",
+    "Precision pricing and pitching psychology"
   ]
 }
