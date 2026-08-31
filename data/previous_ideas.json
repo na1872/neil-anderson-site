@@ -358,7 +358,13 @@
     "Reinvestment Rate Assumption",
     "IRR vs MIRR",
     "Capital Budgeting Flaws",
-    "Terminal Value of Cash Flows"
+    "Terminal Value of Cash Flows",
+    "Sortino Ratio",
+    "Downside Deviation",
+    "Sharpe Ratio comparison",
+    "Asymmetric return profiles",
+    "Positive vs Negative Skewness",
+    "The Turkey Problem in risk metrics"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -724,7 +730,13 @@
     "Compatibility vs Realism in Deep Hedging",
     "Compatibility Gap",
     "Learnability in Deep Hedging",
-    "Integral Probability Metric in Scenario Generation"
+    "Integral Probability Metric in Scenario Generation",
+    "Graph Neural Networks for Volatility Forecasting",
+    "Statistical vs Economic Objectives in Financial ML",
+    "GraphSAGE in Portfolio Construction",
+    "Granger-Causal Graphs",
+    "Volatility Propagation",
+    "Rank IC vs MSE"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -1040,6 +1052,13 @@
     "Pique Technique",
     "Mindless refusal scripts",
     "Pattern interruption in professional communication",
-    "Precision pricing and pitching psychology"
+    "Precision pricing and pitching psychology",
+    "Common-Knowledge Effect",
+    "Shared Information Bias",
+    "Hidden Profiles",
+    "Garold Stasser",
+    "William Titus",
+    "Group decision-making biases",
+    "Meeting dynamics optimization"
   ]
 }

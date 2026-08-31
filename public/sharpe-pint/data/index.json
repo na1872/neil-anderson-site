@@ -1,6 +1,14 @@
 {
-  "latest": "2026-08-28_20-31-32.json",
+  "latest": "2026-08-31_16-17-01.json",
   "issues": [
+    {
+      "id": "2026-08-31_16-17-01",
+      "file": "2026-08-31_16-17-01.json",
+      "title": "The Sharpe Pint: Volatility Disconnects, Reflexive LLMs, and the Common-Knowledge Trap",
+      "date": "2026-08-31",
+      "generated_at": "2026-08-31T15:17:01.977124+00:00",
+      "source_count": 18
+    },
     {
       "id": "2026-08-28_20-31-32",
       "file": "2026-08-28_20-31-32.json",
