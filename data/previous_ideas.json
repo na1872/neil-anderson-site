@@ -364,7 +364,12 @@
     "Sharpe Ratio comparison",
     "Asymmetric return profiles",
     "Positive vs Negative Skewness",
-    "The Turkey Problem in risk metrics"
+    "The Turkey Problem in risk metrics",
+    "Present Value of Growth Opportunities (PVGO)",
+    "Assets in Place vs Growth Options",
+    "No-Growth Value of Equity",
+    "Return on New Invested Capital (RONIC) vs Cost of Capital",
+    "Michael Mauboussin 2026 PVGO Study"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -736,7 +741,14 @@
     "GraphSAGE in Portfolio Construction",
     "Granger-Causal Graphs",
     "Volatility Propagation",
-    "Rank IC vs MSE"
+    "Rank IC vs MSE",
+    "Regime-Weighted Conformal Risk Control",
+    "RWC",
+    "Conformal Risk Control",
+    "Value-at-Risk Calibration",
+    "Non-stationary VaR",
+    "Time-Weighted Conformal Calibration",
+    "TWC"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -1059,6 +1071,13 @@
     "Garold Stasser",
     "William Titus",
     "Group decision-making biases",
-    "Meeting dynamics optimization"
+    "Meeting dynamics optimization",
+    "End of History Illusion",
+    "Jordi Quoidbach",
+    "Daniel Gilbert",
+    "Timothy Wilson",
+    "Career optionality",
+    "Future self planning",
+    "Client preference shifts"
   ]
 }
