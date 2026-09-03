@@ -369,7 +369,12 @@
     "Assets in Place vs Growth Options",
     "No-Growth Value of Equity",
     "Return on New Invested Capital (RONIC) vs Cost of Capital",
-    "Michael Mauboussin 2026 PVGO Study"
+    "Michael Mauboussin 2026 PVGO Study",
+    "Mid-Year Convention",
+    "Mid-Year Discounting",
+    "Terminal Value Discounting",
+    "Exit Multiple Method vs Perpetuity Growth Method in Mid-Year Convention",
+    "Discount Period Adjustments"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -748,7 +753,13 @@
     "Value-at-Risk Calibration",
     "Non-stationary VaR",
     "Time-Weighted Conformal Calibration",
-    "TWC"
+    "TWC",
+    "LambdaRank for Option Surfaces",
+    "Sortino-on-bars",
+    "Volatility Surface Ranking",
+    "Confidence Gate in LTR",
+    "Margin-Aware Sizing",
+    "0DTE Option Ranking"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -1078,6 +1089,13 @@
     "Timothy Wilson",
     "Career optionality",
     "Future self planning",
-    "Client preference shifts"
+    "Client preference shifts",
+    "Ambiguity Effect",
+    "Ambiguity Aversion",
+    "Ellsberg Paradox",
+    "Daniel Ellsberg",
+    "Risk vs Uncertainty",
+    "Pitching novel strategies",
+    "Decision-making under ambiguity"
   ]
 }

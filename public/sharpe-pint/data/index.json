@@ -1,6 +1,14 @@
 {
-  "latest": "2026-09-01_13-41-00.json",
+  "latest": "2026-09-03_13-12-03.json",
   "issues": [
+    {
+      "id": "2026-09-03_13-12-03",
+      "file": "2026-09-03_13-12-03.json",
+      "title": "The Sharpe Pint: Custom Silicon, Strait Jackets, and the 34 Trillion Dollar Chasm",
+      "date": "2026-09-03",
+      "generated_at": "2026-09-03T12:12:03.006370+00:00",
+      "source_count": 16
+    },
     {
       "id": "2026-09-01_13-41-00",
       "file": "2026-09-01_13-41-00.json",
