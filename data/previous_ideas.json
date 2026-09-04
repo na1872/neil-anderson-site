@@ -374,7 +374,12 @@
     "Mid-Year Discounting",
     "Terminal Value Discounting",
     "Exit Multiple Method vs Perpetuity Growth Method in Mid-Year Convention",
-    "Discount Period Adjustments"
+    "Discount Period Adjustments",
+    "Roll-down Return",
+    "Riding the Yield Curve",
+    "Pull-to-Par vs Roll-down",
+    "Carry-and-roll profile",
+    "Yield curve strategies"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -759,7 +764,15 @@
     "Volatility Surface Ranking",
     "Confidence Gate in LTR",
     "Margin-Aware Sizing",
-    "0DTE Option Ranking"
+    "0DTE Option Ranking",
+    "Kronos",
+    "Financial Candlestick Foundation Models",
+    "Binary Spherical Quantization",
+    "BSQ",
+    "K-line Tokenization",
+    "Hierarchical Tokens",
+    "Coarse-to-Fine Market Generation",
+    "Time Series Foundation Models in Finance"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -1096,6 +1109,13 @@
     "Daniel Ellsberg",
     "Risk vs Uncertainty",
     "Pitching novel strategies",
-    "Decision-making under ambiguity"
+    "Decision-making under ambiguity",
+    "Self-handicapping",
+    "Claimed self-handicapping",
+    "Behavioural self-handicapping",
+    "Edward E. Jones",
+    "Steven Berglas",
+    "Ego preservation",
+    "Impression management in finance"
   ]
 }

@@ -1,6 +1,14 @@
 {
-  "latest": "2026-09-03_13-12-03.json",
+  "latest": "2026-09-04_13-13-07.json",
   "issues": [
+    {
+      "id": "2026-09-04_13-13-07",
+      "file": "2026-09-04_13-13-07.json",
+      "title": "The Sharpe Pint: Nvidia's Green Hug, Waller's Pivot, and the 50-Agent Fund",
+      "date": "2026-09-04",
+      "generated_at": "2026-09-04T12:13:07.087585+00:00",
+      "source_count": 18
+    },
     {
       "id": "2026-09-03_13-12-03",
       "file": "2026-09-03_13-12-03.json",
