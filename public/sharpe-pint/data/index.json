@@ -1,6 +1,14 @@
 {
-  "latest": "2026-09-04_13-13-07.json",
+  "latest": "2026-09-05_12-21-13.json",
   "issues": [
+    {
+      "id": "2026-09-05_12-21-13",
+      "file": "2026-09-05_12-21-13.json",
+      "title": "The Sharpe Pint: Hugging Nvidia, Gilt-Edged Headaches, and the Art of the Foot-in-the-Door",
+      "date": "2026-09-05",
+      "generated_at": "2026-09-05T11:21:13.839320+00:00",
+      "source_count": 14
+    },
     {
       "id": "2026-09-04_13-13-07",
       "file": "2026-09-04_13-13-07.json",

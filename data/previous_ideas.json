@@ -379,7 +379,14 @@
     "Riding the Yield Curve",
     "Pull-to-Par vs Roll-down",
     "Carry-and-roll profile",
-    "Yield curve strategies"
+    "Yield curve strategies",
+    "Unlevered Free Cash Flow (FCFF)",
+    "Levered Free Cash Flow (FCFE)",
+    "First Law of Valuation",
+    "Discount rate matching",
+    "Net Operating Profit After Tax (NOPAT)",
+    "Net Debt Repayment impact on FCFE",
+    "CFO levered nature"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -772,7 +779,14 @@
     "K-line Tokenization",
     "Hierarchical Tokens",
     "Coarse-to-Fine Market Generation",
-    "Time Series Foundation Models in Finance"
+    "Time Series Foundation Models in Finance",
+    "Extreme Learning Machine",
+    "ELM",
+    "Single-hidden-layer feedforward neural network",
+    "SLFN",
+    "Fast Learning in Quantitative Finance",
+    "Ridge regression in neural networks",
+    "Moore-Penrose pseudoinverse"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -1116,6 +1130,13 @@
     "Edward E. Jones",
     "Steven Berglas",
     "Ego preservation",
-    "Impression management in finance"
+    "Impression management in finance",
+    "Foot-in-the-Door Technique",
+    "FITD",
+    "Jonathan Freedman and Scott Fraser 1966 research",
+    "Self-perception theory",
+    "Cognitive consistency in persuasion",
+    "Low-friction client onboarding",
+    "Incremental stakeholder buy-in"
   ]
 }
