@@ -386,7 +386,14 @@
     "Discount rate matching",
     "Net Operating Profit After Tax (NOPAT)",
     "Net Debt Repayment impact on FCFE",
-    "CFO levered nature"
+    "CFO levered nature",
+    "Reverse DCF",
+    "Expectations Investing",
+    "Michael Mauboussin",
+    "Alfred Rappaport",
+    "Implied Market Expectations",
+    "Valuation Sensitivity",
+    "Consensus Auditing"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -786,7 +793,14 @@
     "SLFN",
     "Fast Learning in Quantitative Finance",
     "Ridge regression in neural networks",
-    "Moore-Penrose pseudoinverse"
+    "Moore-Penrose pseudoinverse",
+    "Deep Declarative Risk Budgeting Portfolios",
+    "Deep Declarative Networks",
+    "Bounded Softmax",
+    "Lower-Bounded Softmax",
+    "Implicit Layers in Portfolio Optimization",
+    "Budget Vanishing",
+    "cvxpylayers"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -1137,6 +1151,12 @@
     "Self-perception theory",
     "Cognitive consistency in persuasion",
     "Low-friction client onboarding",
-    "Incremental stakeholder buy-in"
+    "Incremental stakeholder buy-in",
+    "Base Rate Fallacy",
+    "Base Rate Neglect",
+    "Outside View",
+    "Amos Tversky",
+    "Bent Flyvbjerg",
+    "M&A success rates"
   ]
 }

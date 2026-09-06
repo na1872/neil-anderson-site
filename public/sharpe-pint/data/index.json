@@ -1,6 +1,14 @@
 {
-  "latest": "2026-09-05_12-21-13.json",
+  "latest": "2026-09-06_12-43-08.json",
   "issues": [
+    {
+      "id": "2026-09-06_12-43-08",
+      "file": "2026-09-06_12-43-08.json",
+      "title": "The Sharpe Pint: Nvidia's Software Moat, Gilt-Edged Headaches, and the Private Market Illusion",
+      "date": "2026-09-06",
+      "generated_at": "2026-09-06T11:43:08.313593+00:00",
+      "source_count": 15
+    },
     {
       "id": "2026-09-05_12-21-13",
       "file": "2026-09-05_12-21-13.json",
