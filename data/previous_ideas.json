@@ -393,7 +393,13 @@
     "Alfred Rappaport",
     "Implied Market Expectations",
     "Valuation Sensitivity",
-    "Consensus Auditing"
+    "Consensus Auditing",
+    "Funds From Operations (FFO)",
+    "Adjusted Funds From Operations (AFFO)",
+    "Real Estate Depreciation Distortion",
+    "Straight-Line Rent Adjustment",
+    "Recurring Maintenance Capex in Real Estate",
+    "Dividend Payout Ratio in REITs"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -800,7 +806,14 @@
     "Lower-Bounded Softmax",
     "Implicit Layers in Portfolio Optimization",
     "Budget Vanishing",
-    "cvxpylayers"
+    "cvxpylayers",
+    "Regime-Adaptive Continual Learning",
+    "ReCAP",
+    "Continual Learning in Portfolio Management",
+    "Catastrophic Forgetting in Finance",
+    "Regime-Gate",
+    "Policy Library",
+    "Selective Updating"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -1157,6 +1170,12 @@
     "Outside View",
     "Amos Tversky",
     "Bent Flyvbjerg",
-    "M&A success rates"
+    "M&A success rates",
+    "Availability Cascade",
+    "Timur Kuran",
+    "Cass Sunstein",
+    "Informational Cascade",
+    "Reputational Cascade",
+    "Availability Entrepreneurs"
   ]
 }
