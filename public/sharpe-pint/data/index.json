@@ -1,6 +1,14 @@
 {
-  "latest": "2026-09-07_14-37-08.json",
+  "latest": "2026-09-08_13-14-30.json",
   "issues": [
+    {
+      "id": "2026-09-08_13-14-30",
+      "file": "2026-09-08_13-14-30.json",
+      "title": "The Sharpe Pint: Tariffs, Tightening, and the CFO Survival Rate",
+      "date": "2026-09-08",
+      "generated_at": "2026-09-08T12:14:30.034364+00:00",
+      "source_count": 17
+    },
     {
       "id": "2026-09-07_14-37-08",
       "file": "2026-09-07_14-37-08.json",

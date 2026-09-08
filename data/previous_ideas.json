@@ -399,7 +399,13 @@
     "Real Estate Depreciation Distortion",
     "Straight-Line Rent Adjustment",
     "Recurring Maintenance Capex in Real Estate",
-    "Dividend Payout Ratio in REITs"
+    "Dividend Payout Ratio in REITs",
+    "Four-Wall EBITDA",
+    "Four-Wall Margin",
+    "Store-level EBITDA",
+    "Unit Economics in Retail",
+    "Corporate G&A Allocation",
+    "Roll-up Synergies"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -813,7 +819,12 @@
     "Catastrophic Forgetting in Finance",
     "Regime-Gate",
     "Policy Library",
-    "Selective Updating"
+    "Selective Updating",
+    "Matched Filter Normalization",
+    "Order Flow Normalization",
+    "Inverse Turnover Pitfall",
+    "Informed Executor Hypothesis",
+    "Limits of Complexity in Financial ML"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -1176,6 +1187,10 @@
     "Cass Sunstein",
     "Informational Cascade",
     "Reputational Cascade",
-    "Availability Entrepreneurs"
+    "Availability Entrepreneurs",
+    "Uniqueness Bias",
+    "Uniqueness Trap",
+    "Reference Class Forecasting",
+    "Project Management Biases"
   ]
 }
