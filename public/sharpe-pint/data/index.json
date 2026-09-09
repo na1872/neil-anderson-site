@@ -1,6 +1,14 @@
 {
-  "latest": "2026-09-08_13-14-30.json",
+  "latest": "2026-09-09_13-25-54.json",
   "issues": [
+    {
+      "id": "2026-09-09_13-25-54",
+      "file": "2026-09-09_13-25-54.json",
+      "title": "The Sharpe Pint: Tariffs, Tankers, and Topological Portfolios",
+      "date": "2026-09-09",
+      "generated_at": "2026-09-09T12:25:54.545642+00:00",
+      "source_count": 18
+    },
     {
       "id": "2026-09-08_13-14-30",
       "file": "2026-09-08_13-14-30.json",

@@ -405,7 +405,13 @@
     "Store-level EBITDA",
     "Unit Economics in Retail",
     "Corporate G&A Allocation",
-    "Roll-up Synergies"
+    "Roll-up Synergies",
+    "Dutch Auction Share Buyback",
+    "Modified Dutch Auction Tender Offer",
+    "Clearing Price",
+    "Proration Risk",
+    "Open Market Repurchase (OMR)",
+    "Accelerated Share Repurchase (ASR)"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -824,7 +830,13 @@
     "Order Flow Normalization",
     "Inverse Turnover Pitfall",
     "Informed Executor Hypothesis",
-    "Limits of Complexity in Financial ML"
+    "Limits of Complexity in Financial ML",
+    "Topological Data Analysis in Portfolio Optimization",
+    "Topological Risk",
+    "Persistence Landscapes",
+    "Takens' Delay Embedding",
+    "Vietoris-Rips Filtration",
+    "Topological Risk Matrix"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -1191,6 +1203,12 @@
     "Uniqueness Bias",
     "Uniqueness Trap",
     "Reference Class Forecasting",
-    "Project Management Biases"
+    "Project Management Biases",
+    "Endowed Progress Effect",
+    "Goal Gradient Effect",
+    "Clark Hull 1932 research",
+    "Nunes and Dreze 2006 research",
+    "Client onboarding optimization",
+    "Managing upwards with pre-completed work"
   ]
 }
