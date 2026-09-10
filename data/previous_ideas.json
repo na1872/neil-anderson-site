@@ -411,7 +411,15 @@
     "Clearing Price",
     "Proration Risk",
     "Open Market Repurchase (OMR)",
-    "Accelerated Share Repurchase (ASR)"
+    "Accelerated Share Repurchase (ASR)",
+    "Covered Interest Parity (CIP)",
+    "Cross-Currency Basis",
+    "FX Swaps",
+    "Limits to Arbitrage",
+    "Balance Sheet Constraints",
+    "Basel III Leverage Ratio",
+    "FX Hedging Drag",
+    "Synthetic Borrowing"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -836,7 +844,13 @@
     "Persistence Landscapes",
     "Takens' Delay Embedding",
     "Vietoris-Rips Filtration",
-    "Topological Risk Matrix"
+    "Topological Risk Matrix",
+    "Kolmogorov-Arnold Networks",
+    "KANs",
+    "KANHedge",
+    "B-splines",
+    "Deep BSDE Solvers",
+    "Greeks approximation"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -1209,6 +1223,11 @@
     "Clark Hull 1932 research",
     "Nunes and Dreze 2006 research",
     "Client onboarding optimization",
-    "Managing upwards with pre-completed work"
+    "Managing upwards with pre-completed work",
+    "Fixed-Pie Bias",
+    "Mythical Fixed-Pie",
+    "Zero-sum negotiation mindset",
+    "Integrative bargaining",
+    "Multiple Equivalent Simultaneous Offers (MESOs)"
   ]
 }
