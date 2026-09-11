@@ -1,6 +1,14 @@
 {
-  "latest": "2026-09-10_13-19-23.json",
+  "latest": "2026-09-11_13-18-22.json",
   "issues": [
+    {
+      "id": "2026-09-11_13-18-22",
+      "file": "2026-09-11_13-18-22.json",
+      "title": "The Sharpe Pint: Volatility Laundering, Gumbel-Softmax, and the Illusion of Effort",
+      "date": "2026-09-11",
+      "generated_at": "2026-09-11T12:18:22.544208+00:00",
+      "source_count": 17
+    },
     {
       "id": "2026-09-10_13-19-23",
       "file": "2026-09-10_13-19-23.json",

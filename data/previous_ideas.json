@@ -419,7 +419,16 @@
     "Balance Sheet Constraints",
     "Basel III Leverage Ratio",
     "FX Hedging Drag",
-    "Synthetic Borrowing"
+    "Synthetic Borrowing",
+    "Return Smoothing",
+    "Volatility Laundering",
+    "Autocorrelation in Sharpe Ratios",
+    "Serial Correlation",
+    "Unsmoothing Private Market Returns",
+    "Geltner Formula",
+    "Andrew Lo 2002 Sharpe Ratio Study",
+    "Traded vs Non-Traded BDCs",
+    "Mean-Variance Optimization distortion"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -850,7 +859,13 @@
     "KANHedge",
     "B-splines",
     "Deep BSDE Solvers",
-    "Greeks approximation"
+    "Greeks approximation",
+    "Neural Jumps for Option Pricing",
+    "Neural Jump Stochastic Differential Equations",
+    "NJSDE",
+    "Gumbel-Softmax in Finance",
+    "Differentiable Jump-Diffusion",
+    "Merton Jump Diffusion with ML"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -1228,6 +1243,13 @@
     "Mythical Fixed-Pie",
     "Zero-sum negotiation mindset",
     "Integrative bargaining",
-    "Multiple Equivalent Simultaneous Offers (MESOs)"
+    "Multiple Equivalent Simultaneous Offers (MESOs)",
+    "Labour Illusion",
+    "Operational transparency",
+    "Ryan Buell",
+    "Michael Norton",
+    "Perceived value of effort",
+    "AI thinking states",
+    "Managing upwards with process visibility"
   ]
 }
