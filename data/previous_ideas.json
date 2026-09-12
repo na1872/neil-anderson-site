@@ -428,7 +428,13 @@
     "Geltner Formula",
     "Andrew Lo 2002 Sharpe Ratio Study",
     "Traded vs Non-Traded BDCs",
-    "Mean-Variance Optimization distortion"
+    "Mean-Variance Optimization distortion",
+    "Make-Whole Call Provision",
+    "Make-Whole Premium",
+    "Traditional Call Option vs Make-Whole Call",
+    "Par-Call Window",
+    "Price Compression in Callable Bonds",
+    "Bond Indenture Mechanics"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -865,7 +871,13 @@
     "NJSDE",
     "Gumbel-Softmax in Finance",
     "Differentiable Jump-Diffusion",
-    "Merton Jump Diffusion with ML"
+    "Merton Jump Diffusion with ML",
+    "Asymptotically-Informed Neural Networks",
+    "AINNs",
+    "Black-Scholes implied volatility computation",
+    "Householder scheme",
+    "Mixture-of-Experts in finance",
+    "Gating functions in option pricing"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -1250,6 +1262,10 @@
     "Michael Norton",
     "Perceived value of effort",
     "AI thinking states",
-    "Managing upwards with process visibility"
+    "Managing upwards with process visibility",
+    "Illusory Truth Effect",
+    "Repetition bias",
+    "Market narratives",
+    "Pitching strategy"
   ]
 }
