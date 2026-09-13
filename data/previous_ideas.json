@@ -434,7 +434,13 @@
     "Traditional Call Option vs Make-Whole Call",
     "Par-Call Window",
     "Price Compression in Callable Bonds",
-    "Bond Indenture Mechanics"
+    "Bond Indenture Mechanics",
+    "OpCo/PropCo Split",
+    "Operating Company / Property Company",
+    "Cost-of-Capital Arbitrage",
+    "Sale-Leaseback",
+    "Master Lease",
+    "Operational Gearing in Real Estate"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -877,7 +883,13 @@
     "Black-Scholes implied volatility computation",
     "Householder scheme",
     "Mixture-of-Experts in finance",
-    "Gating functions in option pricing"
+    "Gating functions in option pricing",
+    "SABR-Informed Multitask Gaussian Process",
+    "SABR-MTGP",
+    "Multitask Gaussian Process",
+    "Implied Volatility Surface Construction",
+    "IndexKernel",
+    "Synthetic-to-Real Framework"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -1266,6 +1278,10 @@
     "Illusory Truth Effect",
     "Repetition bias",
     "Market narratives",
-    "Pitching strategy"
+    "Pitching strategy",
+    "Hostile Attribution Bias",
+    "Hanlon's Razor in professional communication",
+    "Managing short email anxiety",
+    "Paul Spector research on workplace conflict"
   ]
 }

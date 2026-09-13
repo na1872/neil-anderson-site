@@ -1,6 +1,14 @@
 {
-  "latest": "2026-09-12_12-41-17.json",
+  "latest": "2026-09-13_13-48-08.json",
   "issues": [
+    {
+      "id": "2026-09-13_13-48-08",
+      "file": "2026-09-13_13-48-08.json",
+      "title": "The Sharpe Pint: Warsh's Warning, OpCo Splits, and the Five Sins of Financial AI",
+      "date": "2026-09-13",
+      "generated_at": "2026-09-13T12:48:08.717831+00:00",
+      "source_count": 17
+    },
     {
       "id": "2026-09-12_12-41-17",
       "file": "2026-09-12_12-41-17.json",
