@@ -1,6 +1,14 @@
 {
-  "latest": "2026-09-13_13-48-08.json",
+  "latest": "2026-09-14_15-19-57.json",
   "issues": [
+    {
+      "id": "2026-09-14_15-19-57",
+      "file": "2026-09-14_15-19-57.json",
+      "title": "The Sharpe Pint: The Great AI Rethink, $100 Oil, and CFO Digital Twins",
+      "date": "2026-09-14",
+      "generated_at": "2026-09-14T14:19:57.119000+00:00",
+      "source_count": 16
+    },
     {
       "id": "2026-09-13_13-48-08",
       "file": "2026-09-13_13-48-08.json",

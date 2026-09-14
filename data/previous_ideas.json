@@ -440,7 +440,13 @@
     "Cost-of-Capital Arbitrage",
     "Sale-Leaseback",
     "Master Lease",
-    "Operational Gearing in Real Estate"
+    "Operational Gearing in Real Estate",
+    "Market Value of Debt",
+    "Book Value of Debt",
+    "Change of Control Clause",
+    "Debt Subsidy",
+    "Refinancing Risk",
+    "Enterprise Value distortion"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -889,7 +895,13 @@
     "Multitask Gaussian Process",
     "Implied Volatility Surface Construction",
     "IndexKernel",
-    "Synthetic-to-Real Framework"
+    "Synthetic-to-Real Framework",
+    "Girsanov-Based On-Policy Gradient",
+    "Stochastic Optimal Control",
+    "Girsanov Theorem in Machine Learning",
+    "Continuous-Time Policy Gradient",
+    "Radon-Nikodym Derivative in RL",
+    "O(1) Memory Neural SDEs"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -1282,6 +1294,10 @@
     "Hostile Attribution Bias",
     "Hanlon's Razor in professional communication",
     "Managing short email anxiety",
-    "Paul Spector research on workplace conflict"
+    "Paul Spector research on workplace conflict",
+    "Altercasting",
+    "Social Labeling Technique",
+    "Eugene Weinstein and Paul Deutschberger 1963 research",
+    "Pre-suasion tactics in professional communication"
   ]
 }
