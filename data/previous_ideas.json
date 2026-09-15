@@ -901,7 +901,14 @@
     "Girsanov Theorem in Machine Learning",
     "Continuous-Time Policy Gradient",
     "Radon-Nikodym Derivative in RL",
-    "O(1) Memory Neural SDEs"
+    "O(1) Memory Neural SDEs",
+    "Nyström Attention",
+    "Cross-Sectional Stock Prediction",
+    "Uniformity Paradox",
+    "MASTER model",
+    "Low-Rank Attention Approximation",
+    "TOST Equivalence Testing",
+    "Complementarity-Seeking Attention"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -1298,6 +1305,11 @@
     "Altercasting",
     "Social Labeling Technique",
     "Eugene Weinstein and Paul Deutschberger 1963 research",
-    "Pre-suasion tactics in professional communication"
+    "Pre-suasion tactics in professional communication",
+    "Single-Option Aversion",
+    "Daniel Mochon 2013 research",
+    "Choice architecture in pitching",
+    "Managing upwards with options",
+    "Decision deferral and search behavior"
   ]
 }
