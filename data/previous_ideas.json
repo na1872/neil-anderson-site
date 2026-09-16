@@ -446,7 +446,14 @@
     "Change of Control Clause",
     "Debt Subsidy",
     "Refinancing Risk",
-    "Enterprise Value distortion"
+    "Enterprise Value distortion",
+    "Incurrence Covenants",
+    "Maintenance Covenants",
+    "Covenant-Lite (Cov-Lite)",
+    "Springing Covenants",
+    "Covenant-Loose (Cov-Loose)",
+    "Equity Cure",
+    "Revolving Credit Facility (RCF) Springing Covenant"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -908,7 +915,13 @@
     "MASTER model",
     "Low-Rank Attention Approximation",
     "TOST Equivalence Testing",
-    "Complementarity-Seeking Attention"
+    "Complementarity-Seeking Attention",
+    "Neural Controlled Differential Equations",
+    "Neural CDEs",
+    "Attentive Kernel Smoothing",
+    "Irregular Time Series",
+    "torchcde",
+    "Gaussian Process Smoothing in CDEs"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -1310,6 +1323,12 @@
     "Daniel Mochon 2013 research",
     "Choice architecture in pitching",
     "Managing upwards with options",
-    "Decision deferral and search behavior"
+    "Decision deferral and search behavior",
+    "Weber-Fechner Law",
+    "Just Noticeable Difference",
+    "JND",
+    "Relative perception",
+    "Budget bundling",
+    "Incremental fee increases"
   ]
 }

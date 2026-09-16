@@ -1,6 +1,14 @@
 {
-  "latest": "2026-09-15_13-47-41.json",
+  "latest": "2026-09-16_13-43-42.json",
   "issues": [
+    {
+      "id": "2026-09-16_13-43-42",
+      "file": "2026-09-16_13-43-42.json",
+      "title": "The Sharpe Pint: The 5% Club, Digital CFOs, and the Art of the Rounding Error",
+      "date": "2026-09-16",
+      "generated_at": "2026-09-16T12:43:42.142974+00:00",
+      "source_count": 19
+    },
     {
       "id": "2026-09-15_13-47-41",
       "file": "2026-09-15_13-47-41.json",
