@@ -453,7 +453,12 @@
     "Springing Covenants",
     "Covenant-Loose (Cov-Loose)",
     "Equity Cure",
-    "Revolving Credit Facility (RCF) Springing Covenant"
+    "Revolving Credit Facility (RCF) Springing Covenant",
+    "Debt Yield",
+    "Loan-to-Value (LTV)",
+    "Debt Service Coverage Ratio (DSCR)",
+    "Commercial Real Estate Finance",
+    "Private Credit Underwriting"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -921,7 +926,12 @@
     "Attentive Kernel Smoothing",
     "Irregular Time Series",
     "torchcde",
-    "Gaussian Process Smoothing in CDEs"
+    "Gaussian Process Smoothing in CDEs",
+    "Finance-Grounded Optimization",
+    "Band Turnover Regularization",
+    "The Lazy Trader Trap",
+    "Logarithmic Maximum Drawdown Loss",
+    "Risk-Adjusted Loss Functions"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -1329,6 +1339,11 @@
     "JND",
     "Relative perception",
     "Budget bundling",
-    "Incremental fee increases"
+    "Incremental fee increases",
+    "Out-Group Homogeneity Effect",
+    "In-group bias",
+    "Inter-departmental friction",
+    "Negotiation tactics",
+    "Stakeholder management"
   ]
 }

@@ -1,6 +1,14 @@
 {
-  "latest": "2026-09-16_13-43-42.json",
+  "latest": "2026-09-18_13-19-01.json",
   "issues": [
+    {
+      "id": "2026-09-18_13-19-01",
+      "file": "2026-09-18_13-19-01.json",
+      "title": "The Sharpe Pint: The Oracle Steps Back & The 100-Year Power Law",
+      "date": "2026-09-18",
+      "generated_at": "2026-09-18T12:19:01.810170+00:00",
+      "source_count": 19
+    },
     {
       "id": "2026-09-16_13-43-42",
       "file": "2026-09-16_13-43-42.json",
