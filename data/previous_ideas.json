@@ -458,7 +458,13 @@
     "Loan-to-Value (LTV)",
     "Debt Service Coverage Ratio (DSCR)",
     "Commercial Real Estate Finance",
-    "Private Credit Underwriting"
+    "Private Credit Underwriting",
+    "Additional Tier 1 (AT1) Bonds",
+    "Absolute Priority Rule",
+    "Point of Non-Viability (PONV)",
+    "Contingent Convertibles (CoCos)",
+    "Negative Convexity in Bank Debt",
+    "Credit Suisse AT1 Write-down"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -931,7 +937,13 @@
     "Band Turnover Regularization",
     "The Lazy Trader Trap",
     "Logarithmic Maximum Drawdown Loss",
-    "Risk-Adjusted Loss Functions"
+    "Risk-Adjusted Loss Functions",
+    "Exact Terminal Condition Neural Network",
+    "ETCNN",
+    "Physics-Informed Neural Networks for Option Pricing",
+    "Terminal Condition Hard Constraints",
+    "Payoff Smoothing in PINNs",
+    "American Option Pricing with Hard Constraints"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -1344,6 +1356,12 @@
     "In-group bias",
     "Inter-departmental friction",
     "Negotiation tactics",
-    "Stakeholder management"
+    "Stakeholder management",
+    "Inattentional blindness",
+    "Illusion of attention",
+    "Invisible Gorilla experiment",
+    "Trafton Drew 2013 research",
+    "Macro vs micro review in financial modeling",
+    "Designated contrarian roles in investment committees"
   ]
 }
