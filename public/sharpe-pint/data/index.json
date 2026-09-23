@@ -1,6 +1,14 @@
 {
-  "latest": "2026-09-20_13-33-21.json",
+  "latest": "2026-09-23_13-55-22.json",
   "issues": [
+    {
+      "id": "2026-09-23_13-55-22",
+      "file": "2026-09-23_13-55-22.json",
+      "title": "The Sharpe Pint: London's $9bn Lifeline, Muse's Magic, and the 'Mercenary' Bias",
+      "date": "2026-09-23",
+      "generated_at": "2026-09-23T12:55:22.502275+00:00",
+      "source_count": 17
+    },
     {
       "id": "2026-09-20_13-33-21",
       "file": "2026-09-20_13-33-21.json",

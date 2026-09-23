@@ -464,7 +464,13 @@
     "Point of Non-Viability (PONV)",
     "Contingent Convertibles (CoCos)",
     "Negative Convexity in Bank Debt",
-    "Credit Suisse AT1 Write-down"
+    "Credit Suisse AT1 Write-down",
+    "Risk-Adjusted Return on Capital (RAROC)",
+    "Return on Risk-Adjusted Capital (RORAC)",
+    "Expected Loss (EL)",
+    "Unexpected Loss (UL)",
+    "Economic Capital",
+    "Credit Risk Pricing"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -943,7 +949,15 @@
     "Physics-Informed Neural Networks for Option Pricing",
     "Terminal Condition Hard Constraints",
     "Payoff Smoothing in PINNs",
-    "American Option Pricing with Hard Constraints"
+    "American Option Pricing with Hard Constraints",
+    "DILATE",
+    "DILATE Loss",
+    "Dynamic Time Warping Loss",
+    "Soft-DTW Loss",
+    "Temporal Distortion Index",
+    "Multi-Step Forecasting",
+    "Pointwise Loss Bias",
+    "Blurry Prediction Problem"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -1362,6 +1376,10 @@
     "Invisible Gorilla experiment",
     "Trafton Drew 2013 research",
     "Macro vs micro review in financial modeling",
-    "Designated contrarian roles in investment committees"
+    "Designated contrarian roles in investment committees",
+    "Naïve Cynicism",
+    "Justin Kruger and Thomas Gilovich 1999 research",
+    "Biased perceptions of bias",
+    "Inter-departmental conflict in finance"
   ]
 }
