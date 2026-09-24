@@ -470,7 +470,13 @@
     "Expected Loss (EL)",
     "Unexpected Loss (UL)",
     "Economic Capital",
-    "Credit Risk Pricing"
+    "Credit Risk Pricing",
+    "Section 382 NOL Limitations",
+    "Net Operating Losses in M&A",
+    "CTA 2010 Part 14",
+    "Loss Buying Rules",
+    "Major Change in Nature or Conduct of Trade (MCINOCOT)",
+    "DTA Valuation in EV Bridge"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -957,7 +963,13 @@
     "Temporal Distortion Index",
     "Multi-Step Forecasting",
     "Pointwise Loss Bias",
-    "Blurry Prediction Problem"
+    "Blurry Prediction Problem",
+    "Financially Guided Deep Portfolio Optimization",
+    "Smooth Omega Loss",
+    "Differentiable CVaR Loss",
+    "Risk Parity Regularizer",
+    "Rockafellar-Uryasev formula in ML",
+    "Direct Weight Prediction via Differentiable Surrogates"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -1380,6 +1392,12 @@
     "Naïve Cynicism",
     "Justin Kruger and Thomas Gilovich 1999 research",
     "Biased perceptions of bias",
-    "Inter-departmental conflict in finance"
+    "Inter-departmental conflict in finance",
+    "Mere Exposure Effect",
+    "Familiarity bias",
+    "Home bias in investing",
+    "Presenteeism and workplace visibility",
+    "Robert Zajonc 1968 research",
+    "Perceptual fluency in career progression"
   ]
 }
