@@ -1,6 +1,14 @@
 {
-  "latest": "2026-09-24_13-49-51.json",
+  "latest": "2026-09-25_13-52-12.json",
   "issues": [
+    {
+      "id": "2026-09-25_13-52-12",
+      "file": "2026-09-25_13-52-12.json",
+      "title": "The Sharpe Pint: Hormuz Carrots, Bond Vigilantes, and the Human Moat",
+      "date": "2026-09-25",
+      "generated_at": "2026-09-25T12:52:12.313551+00:00",
+      "source_count": 17
+    },
     {
       "id": "2026-09-24_13-49-51",
       "file": "2026-09-24_13-49-51.json",

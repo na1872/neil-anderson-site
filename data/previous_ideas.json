@@ -476,7 +476,12 @@
     "CTA 2010 Part 14",
     "Loss Buying Rules",
     "Major Change in Nature or Conduct of Trade (MCINOCOT)",
-    "DTA Valuation in EV Bridge"
+    "DTA Valuation in EV Bridge",
+    "Fulcrum Security",
+    "Loan-to-Own Strategy",
+    "Debt Waterfall",
+    "Value Break Analysis",
+    "Debt-for-Equity Swap"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -969,7 +974,13 @@
     "Differentiable CVaR Loss",
     "Risk Parity Regularizer",
     "Rockafellar-Uryasev formula in ML",
-    "Direct Weight Prediction via Differentiable Surrogates"
+    "Direct Weight Prediction via Differentiable Surrogates",
+    "Uncertainty-Averse Portfolio Optimization",
+    "Lasso as Uncertainty Aversion",
+    "Forecast Confidence Intervals for Neural Networks",
+    "Adaptive Lasso in Portfolio Selection",
+    "Knightian Uncertainty in Financial ML",
+    "Asymptotic Distribution of Neural Network Forecasts"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -1398,6 +1409,11 @@
     "Home bias in investing",
     "Presenteeism and workplace visibility",
     "Robert Zajonc 1968 research",
-    "Perceptual fluency in career progression"
+    "Perceptual fluency in career progression",
+    "Winner's Curse",
+    "Common value vs private value auctions",
+    "Bid shading",
+    "Competitive arousal in negotiations",
+    "M&A overbidding"
   ]
 }
