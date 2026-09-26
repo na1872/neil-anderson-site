@@ -481,7 +481,13 @@
     "Loan-to-Own Strategy",
     "Debt Waterfall",
     "Value Break Analysis",
-    "Debt-for-Equity Swap"
+    "Debt-for-Equity Swap",
+    "Treasury Basis Trade",
+    "Cash-Futures Basis",
+    "Repo Financing",
+    "Hedge Fund Leverage",
+    "Funding Liquidity Risk",
+    "Systemic Risk in Treasury Markets"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -980,7 +986,14 @@
     "Forecast Confidence Intervals for Neural Networks",
     "Adaptive Lasso in Portfolio Selection",
     "Knightian Uncertainty in Financial ML",
-    "Asymptotic Distribution of Neural Network Forecasts"
+    "Asymptotic Distribution of Neural Network Forecasts",
+    "LOB-ID",
+    "Monge Inception Distance",
+    "MIND",
+    "Fréchet Inception Distance in Finance",
+    "DeepLOB Embeddings",
+    "Sliced Wasserstein Distance in LOB Evaluation",
+    "Synthetic Limit Order Book Evaluation"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -1414,6 +1427,12 @@
     "Common value vs private value auctions",
     "Bid shading",
     "Competitive arousal in negotiations",
-    "M&A overbidding"
+    "M&A overbidding",
+    "Babble Effect",
+    "Babble Hypothesis",
+    "Neil G. MacLaren 2020 research",
+    "Meeting dynamics and speaking time",
+    "Volume vs competence bias",
+    "Structural airtime"
   ]
 }
