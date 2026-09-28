@@ -1,6 +1,14 @@
 {
-  "latest": "2026-09-26_13-20-10.json",
+  "latest": "2026-09-28_16-46-19.json",
   "issues": [
+    {
+      "id": "2026-09-28_16-46-19",
+      "file": "2026-09-28_16-46-19.json",
+      "title": "The Sharpe Pint: Nvidia's Cash Flex, 5% Yield Gravity, and the Secret Plumbing of Private Credit",
+      "date": "2026-09-28",
+      "generated_at": "2026-09-28T15:46:19.743762+00:00",
+      "source_count": 17
+    },
     {
       "id": "2026-09-26_13-20-10",
       "file": "2026-09-26_13-20-10.json",

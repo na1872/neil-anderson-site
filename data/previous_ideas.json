@@ -487,7 +487,13 @@
     "Repo Financing",
     "Hedge Fund Leverage",
     "Funding Liquidity Risk",
-    "Systemic Risk in Treasury Markets"
+    "Systemic Risk in Treasury Markets",
+    "Unitranche Debt",
+    "Agreement Among Lenders (AAL)",
+    "First-Out / Last-Out Tranches",
+    "Interest Skimming",
+    "Synthetic Subordination",
+    "Direct Lending Risk Allocation"
   ],
   "quant_ai_ideas": [
     "Conformal Prediction",
@@ -993,7 +999,16 @@
     "Fréchet Inception Distance in Finance",
     "DeepLOB Embeddings",
     "Sliced Wasserstein Distance in LOB Evaluation",
-    "Synthetic Limit Order Book Evaluation"
+    "Synthetic Limit Order Book Evaluation",
+    "Propose, Don't Judge",
+    "Anytime-Valid Referee",
+    "e-values",
+    "e-variables",
+    "e-BH procedure",
+    "Multiple testing under arbitrary dependence",
+    "Optional stopping in quant research",
+    "Phantom alpha mitigation",
+    "Governed self-evolution"
   ],
   "people_psychology_ideas": [
     "IKEA Effect",
@@ -1433,6 +1448,11 @@
     "Neil G. MacLaren 2020 research",
     "Meeting dynamics and speaking time",
     "Volume vs competence bias",
-    "Structural airtime"
+    "Structural airtime",
+    "Sayre's Law",
+    "Narcissism of small differences",
+    "Viciousness of small stakes",
+    "Conflict resolution in low-stakes environments",
+    "Status proxy wars"
   ]
 }
